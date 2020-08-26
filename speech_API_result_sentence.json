@@ -1,0 +1,8509 @@
+[
+  {
+    "id": 0,
+    "start": 0,
+    "end": 15.6,
+    "text": "So why do we need statistics in quality your business or your research concerns a product or service and they're a different variables that you consider important.",
+    "words": [
+      {
+        "startTime": 5.9,
+        "endTime": 6.3,
+        "word": "So"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "why"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.8,
+        "word": "do"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.8,
+        "word": "we"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.4,
+        "word": "need"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 8.0,
+        "word": "statistics"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.5,
+        "word": "in"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 9.1,
+        "word": "quality"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 10.2,
+        "word": "your"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.7,
+        "word": "business"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.8,
+        "word": "or"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 10.8,
+        "word": "your"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.4,
+        "word": "research"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 11.9,
+        "word": "concerns"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 11.9,
+        "word": "a"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.3,
+        "word": "product"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 12.4,
+        "word": "or"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.4,
+        "word": "service"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 13.9,
+        "word": "and"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.0,
+        "word": "they're"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.1,
+        "word": "a"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.3,
+        "word": "different"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.9,
+        "word": "variables"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 14.9,
+        "word": "that"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.1,
+        "word": "you"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.5,
+        "word": "consider"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 15.6,
+        "word": "important."
+      }
+    ],
+    "length": 15.6
+  },
+  {
+    "id": 1,
+    "start": 15.6,
+    "end": 31.4,
+    "text": "Maybe this is waiting time for your patience for execution time of your computer program or the deposited film thickness or the current density in your integrated circuit or the strength of your bicycle helmet strap stitching.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.7,
+        "word": "Maybe"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "this"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "is"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "waiting"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "time"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "for"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "your"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.9,
+        "word": "patience"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.5,
+        "word": "for"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.2,
+        "word": "execution"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "time"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "of"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "your"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.2,
+        "word": "computer"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.7,
+        "word": "program"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.7,
+        "word": "or"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.9,
+        "word": "the"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.6,
+        "word": "deposited"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.0,
+        "word": "film"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.3,
+        "word": "thickness"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.7,
+        "word": "or"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.9,
+        "word": "the"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.3,
+        "word": "current"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.6,
+        "word": "density"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.0,
+        "word": "in"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.1,
+        "word": "your"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.6,
+        "word": "integrated"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 12.0,
+        "word": "circuit"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 13.3,
+        "word": "or"
+      },
+      {
+        "startTime": 13.3,
+        "endTime": 13.5,
+        "word": "the"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.8,
+        "word": "strength"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.1,
+        "word": "of"
+      },
+      {
+        "startTime": 14.1,
+        "endTime": 14.2,
+        "word": "your"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.6,
+        "word": "bicycle"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 15.0,
+        "word": "helmet"
+      },
+      {
+        "startTime": 15.0,
+        "endTime": 15.3,
+        "word": "strap"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.8,
+        "word": "stitching."
+      }
+    ],
+    "length": 15.799999999999999
+  },
+  {
+    "id": 2,
+    "start": 31.4,
+    "end": 44.7,
+    "text": "All of these are variables from populations populations of waiting times of execution times of film thicknesses or current densities and all of these populations can be modeled.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 1.4,
+        "word": "All"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.6,
+        "word": "of"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.6,
+        "word": "these"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "are"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.4,
+        "word": "variables"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "from"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.4,
+        "word": "populations"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.6,
+        "word": "populations"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.6,
+        "word": "of"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.1,
+        "word": "waiting"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.5,
+        "word": "times"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "of"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.3,
+        "word": "execution"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.9,
+        "word": "times"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.3,
+        "word": "of"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "film"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.1,
+        "word": "thicknesses"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.7,
+        "word": "or"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.2,
+        "word": "current"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.8,
+        "word": "densities"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.5,
+        "word": "and"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.0,
+        "word": "all"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.2,
+        "word": "of"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.3,
+        "word": "these"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.8,
+        "word": "populations"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.6,
+        "word": "can"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 12.7,
+        "word": "be"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.3,
+        "word": "modeled."
+      }
+    ],
+    "length": 13.300000000000004
+  },
+  {
+    "id": 3,
+    "start": 44.7,
+    "end": 59.3,
+    "text": " The science is statistics provides us with the means for describing populations with variability and methods for estimating population quality from samples.",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.5,
+        "word": "The"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.1,
+        "word": "science"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.1,
+        "word": "is"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.9,
+        "word": "statistics"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.4,
+        "word": "provides"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "us"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.8,
+        "word": "with"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "the"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "means"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.0,
+        "word": "for"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.7,
+        "word": "describing"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 7.2,
+        "word": "populations"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.7,
+        "word": "with"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.1,
+        "word": "variability"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 9.5,
+        "word": "and"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.8,
+        "word": "methods"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 10.9,
+        "word": "for"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.4,
+        "word": "estimating"
+      },
+      {
+        "startTime": 11.4,
+        "endTime": 12.2,
+        "word": "population"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 13.2,
+        "word": "quality"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.8,
+        "word": "from"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.6,
+        "word": "samples."
+      }
+    ],
+    "length": 14.599999999999994
+  },
+  {
+    "id": 4,
+    "start": 59.3,
+    "end": 63.4,
+    "text": " Is quality engineering and management?",
+    "words": [
+      {
+        "startTime": 1.9,
+        "endTime": 2.7,
+        "word": "Is"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.2,
+        "word": "quality"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.7,
+        "word": "engineering"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "and"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "management?"
+      }
+    ],
+    "length": 4.100000000000001
+  },
+  {
+    "id": 5,
+    "start": 63.4,
+    "end": 67.9,
+    "text": "We are interested interested in improving the process or product.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "We"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.5,
+        "word": "are"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 1.0,
+        "word": "interested"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.5,
+        "word": "interested"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "in"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.3,
+        "word": "improving"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 3.3,
+        "word": "the"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.7,
+        "word": "process"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "or"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.5,
+        "word": "product."
+      }
+    ],
+    "length": 4.500000000000007
+  },
+  {
+    "id": 6,
+    "start": 67.9,
+    "end": 82.0,
+    "text": "We are interested in understanding the key inputs are variables to change them so that the output is improved and controlled and statistics are key to this process Improvement cycle.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "We"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "are"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.1,
+        "word": "interested"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "in"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.7,
+        "word": "understanding"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.2,
+        "word": "the"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.5,
+        "word": "key"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.1,
+        "word": "inputs"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.2,
+        "word": "are"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.9,
+        "word": "variables"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 5.4,
+        "word": "to"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.9,
+        "word": "change"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.2,
+        "word": "them"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.6,
+        "word": "so"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "that"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "the"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.3,
+        "word": "output"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "is"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.1,
+        "word": "improved"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.2,
+        "word": "and"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.8,
+        "word": "controlled"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.7,
+        "word": "and"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.5,
+        "word": "statistics"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.6,
+        "word": "are"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.1,
+        "word": "key"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.7,
+        "word": "to"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.9,
+        "word": "this"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.3,
+        "word": "process"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 13.5,
+        "word": "Improvement"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 14.1,
+        "word": "cycle."
+      }
+    ],
+    "length": 14.099999999999994
+  },
+  {
+    "id": 7,
+    "start": 82.0,
+    "end": 93.1,
+    "text": " The following models are very often used in quality engineering and most of them will see in this course for example control charts.",
+    "words": [
+      {
+        "startTime": 2.5,
+        "endTime": 3.6,
+        "word": "The"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "following"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.5,
+        "word": "models"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "are"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.3,
+        "word": "very"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "often"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.9,
+        "word": "used"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "in"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.4,
+        "word": "quality"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.5,
+        "word": "engineering"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.1,
+        "word": "and"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.6,
+        "word": "most"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.7,
+        "word": "of"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.8,
+        "word": "them"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "will"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.1,
+        "word": "see"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.3,
+        "word": "in"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "this"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.9,
+        "word": "course"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.5,
+        "word": "for"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.0,
+        "word": "example"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.5,
+        "word": "control"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.1,
+        "word": "charts."
+      }
+    ],
+    "length": 11.099999999999994
+  },
+  {
+    "id": 8,
+    "start": 93.1,
+    "end": 99.9,
+    "text": "These are used in controlling processes so that they produce products of uniform quality.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "These"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "are"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.9,
+        "word": "used"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "in"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.6,
+        "word": "controlling"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.4,
+        "word": "processes"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.3,
+        "word": "so"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "that"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "they"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "produce"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.5,
+        "word": "products"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.8,
+        "word": "of"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.2,
+        "word": "uniform"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.8,
+        "word": "quality."
+      }
+    ],
+    "length": 6.800000000000011
+  },
+  {
+    "id": 9,
+    "start": 99.9,
+    "end": 104.5,
+    "text": "They can also be applied or they have been applied now in service Industries as well.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "They"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "can"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.4,
+        "word": "also"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.5,
+        "word": "be"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "applied"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "or"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "they"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "have"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.5,
+        "word": "been"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.9,
+        "word": "applied"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "now"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "in"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.5,
+        "word": "service"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.1,
+        "word": "Industries"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "as"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "well."
+      }
+    ],
+    "length": 4.599999999999994
+  },
+  {
+    "id": 10,
+    "start": 104.5,
+    "end": 112.8,
+    "text": " Sampling plans are used for determining acceptability of laws based on samples taken from them.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 1.8,
+        "word": "Sampling"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.4,
+        "word": "plans"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "are"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.0,
+        "word": "used"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.3,
+        "word": "for"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "determining"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.9,
+        "word": "acceptability"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.3,
+        "word": "of"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.8,
+        "word": "laws"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.2,
+        "word": "based"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.4,
+        "word": "on"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.0,
+        "word": "samples"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.7,
+        "word": "taken"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.8,
+        "word": "from"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.3,
+        "word": "them."
+      }
+    ],
+    "length": 8.299999999999997
+  },
+  {
+    "id": 11,
+    "start": 112.8,
+    "end": 123.3,
+    "text": " Designed experiments are used for determining the best combination of person parameter levels to obtain desired levels of the quality characteristics.",
+    "words": [
+      {
+        "startTime": 0.8,
+        "endTime": 1.5,
+        "word": "Designed"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.2,
+        "word": "experiments"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.5,
+        "word": "are"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.8,
+        "word": "used"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "for"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "determining"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.5,
+        "word": "the"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.1,
+        "word": "best"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.6,
+        "word": "combination"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.1,
+        "word": "of"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 6.0,
+        "word": "person"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.6,
+        "word": "parameter"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.1,
+        "word": "levels"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.6,
+        "word": "to"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.0,
+        "word": "obtain"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.5,
+        "word": "desired"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.9,
+        "word": "levels"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.0,
+        "word": "of"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.1,
+        "word": "the"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.7,
+        "word": "quality"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.5,
+        "word": "characteristics."
+      }
+    ],
+    "length": 10.5
+  },
+  {
+    "id": 12,
+    "start": 123.3,
+    "end": 141.3,
+    "text": " We use regression and correlation analysis to determine which variables cause and effect on to what extent the quality characteristics are than affected.",
+    "words": [
+      {
+        "startTime": 1.9,
+        "endTime": 3.5,
+        "word": "We"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.9,
+        "word": "use"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.4,
+        "word": "regression"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "and"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.0,
+        "word": "correlation"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.7,
+        "word": "analysis"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.5,
+        "word": "to"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.5,
+        "word": "determine"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.6,
+        "word": "which"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 9.1,
+        "word": "variables"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 10.2,
+        "word": "cause"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 11.3,
+        "word": "and"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.8,
+        "word": "effect"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.0,
+        "word": "on"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.2,
+        "word": "to"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.5,
+        "word": "what"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 13.4,
+        "word": "extent"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 14.0,
+        "word": "the"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.6,
+        "word": "quality"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 15.1,
+        "word": "characteristics"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 16.0,
+        "word": "are"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 17.0,
+        "word": "than"
+      },
+      {
+        "startTime": 17.0,
+        "endTime": 18.0,
+        "word": "affected."
+      }
+    ],
+    "length": 18.000000000000014
+  },
+  {
+    "id": 13,
+    "start": 141.3,
+    "end": 160.1,
+    "text": " Reliability engineering is used in understanding the factors that affect the life of parts and assemblies in order to increase their life and finally tolerancing is used for determining the allowable variability in product or process variables to the products produced economically while meeting customer needs.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 2.1,
+        "word": "Reliability"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.6,
+        "word": "engineering"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "is"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "used"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "in"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.7,
+        "word": "understanding"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "the"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.3,
+        "word": "factors"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "that"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "affect"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.8,
+        "word": "the"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.2,
+        "word": "life"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "of"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.9,
+        "word": "parts"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "and"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.5,
+        "word": "assemblies"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.6,
+        "word": "in"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.9,
+        "word": "order"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "to"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.2,
+        "word": "increase"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.6,
+        "word": "their"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.0,
+        "word": "life"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 9.1,
+        "word": "and"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.5,
+        "word": "finally"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.3,
+        "word": "tolerancing"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.4,
+        "word": "is"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.7,
+        "word": "used"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.8,
+        "word": "for"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.1,
+        "word": "determining"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.7,
+        "word": "the"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.3,
+        "word": "allowable"
+      },
+      {
+        "startTime": 12.3,
+        "endTime": 13.0,
+        "word": "variability"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.2,
+        "word": "in"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.7,
+        "word": "product"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 13.8,
+        "word": "or"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.0,
+        "word": "process"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.8,
+        "word": "variables"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.3,
+        "word": "to"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 15.4,
+        "word": "the"
+      },
+      {
+        "startTime": 15.4,
+        "endTime": 16.0,
+        "word": "products"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.3,
+        "word": "produced"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 17.3,
+        "word": "economically"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.8,
+        "word": "while"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 18.1,
+        "word": "meeting"
+      },
+      {
+        "startTime": 18.1,
+        "endTime": 18.7,
+        "word": "customer"
+      },
+      {
+        "startTime": 18.7,
+        "endTime": 18.8,
+        "word": "needs."
+      }
+    ],
+    "length": 18.799999999999983
+  },
+  {
+    "id": 14,
+    "start": 160.1,
+    "end": 170.6,
+    "text": " That we will be talking about some different numerical methods used for describing populations.",
+    "words": [
+      {
+        "startTime": 2.4,
+        "endTime": 3.9,
+        "word": "That"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.0,
+        "word": "we"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "will"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "be"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "talking"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.0,
+        "word": "about"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.7,
+        "word": "some"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.3,
+        "word": "different"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 7.0,
+        "word": "numerical"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.9,
+        "word": "methods"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.6,
+        "word": "used"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.8,
+        "word": "for"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.5,
+        "word": "describing"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.5,
+        "word": "populations."
+      }
+    ],
+    "length": 10.5
+  },
+  {
+    "id": 15,
+    "start": 170.6,
+    "end": 171.3,
+    "text": "I'm here.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "I'm"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.7,
+        "word": "here."
+      }
+    ],
+    "length": 0.700000000000017
+  },
+  {
+    "id": 16,
+    "start": 171.3,
+    "end": 181.8,
+    "text": "I have a few terms which we should be familiar with the term population this refers to the collection of all items that are of interest in a given situation.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "I"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.3,
+        "word": "have"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.3,
+        "word": "a"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.5,
+        "word": "few"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 1.1,
+        "word": "terms"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "which"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.5,
+        "word": "we"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "should"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "be"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "familiar"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.8,
+        "word": "with"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.5,
+        "word": "the"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "term"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.9,
+        "word": "population"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 6.1,
+        "word": "this"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.6,
+        "word": "refers"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.6,
+        "word": "to"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "the"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.2,
+        "word": "collection"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.3,
+        "word": "of"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "all"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.0,
+        "word": "items"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.8,
+        "word": "that"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.0,
+        "word": "are"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.2,
+        "word": "of"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.3,
+        "word": "interest"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.7,
+        "word": "in"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 9.8,
+        "word": "a"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.1,
+        "word": "given"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.5,
+        "word": "situation."
+      }
+    ],
+    "length": 10.5
+  },
+  {
+    "id": 17,
+    "start": 181.8,
+    "end": 193.3,
+    "text": " The term sample refers to a subset choosing from this population and whenever we use the term sample, we really mean is a random sample.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "The"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "term"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.8,
+        "word": "sample"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.6,
+        "word": "refers"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.8,
+        "word": "to"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "a"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.6,
+        "word": "subset"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.1,
+        "word": "choosing"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.2,
+        "word": "from"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "this"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "population"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 7.2,
+        "word": "and"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.3,
+        "word": "whenever"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "we"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.8,
+        "word": "use"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 7.9,
+        "word": "the"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.2,
+        "word": "term"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.8,
+        "word": "sample,"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.3,
+        "word": "we"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.6,
+        "word": "really"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.8,
+        "word": "mean"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.0,
+        "word": "is"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.1,
+        "word": "a"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.6,
+        "word": "random"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.5,
+        "word": "sample."
+      }
+    ],
+    "length": 11.5
+  },
+  {
+    "id": 18,
+    "start": 193.3,
+    "end": 202.1,
+    "text": "This is a sample taken in such a manner which item in the population has an equal chance of being included in the sample.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "This"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "is"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.0,
+        "word": "a"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.5,
+        "word": "sample"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "taken"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "in"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "such"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "a"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.8,
+        "word": "manner"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.9,
+        "word": "which"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.5,
+        "word": "item"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.5,
+        "word": "in"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.6,
+        "word": "the"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.1,
+        "word": "population"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.8,
+        "word": "has"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "an"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.1,
+        "word": "equal"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.6,
+        "word": "chance"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.5,
+        "word": "of"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.8,
+        "word": "being"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.2,
+        "word": "included"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.6,
+        "word": "in"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.7,
+        "word": "the"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.8,
+        "word": "sample."
+      }
+    ],
+    "length": 8.799999999999983
+  },
+  {
+    "id": 19,
+    "start": 202.1,
+    "end": 217.6,
+    "text": " No see more terms when samples are inspected for a population you get generate observations on the collection of these observations we call data.",
+    "words": [
+      {
+        "startTime": 3.7,
+        "endTime": 4.1,
+        "word": "No"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 5.4,
+        "word": "see"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.7,
+        "word": "more"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.1,
+        "word": "terms"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.3,
+        "word": "when"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 7.0,
+        "word": "samples"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.2,
+        "word": "are"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 8.0,
+        "word": "inspected"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.1,
+        "word": "for"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.1,
+        "word": "a"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.6,
+        "word": "population"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.8,
+        "word": "you"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.0,
+        "word": "get"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 11.0,
+        "word": "generate"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 12.0,
+        "word": "observations"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.2,
+        "word": "on"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.2,
+        "word": "the"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.7,
+        "word": "collection"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.9,
+        "word": "of"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.0,
+        "word": "these"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.4,
+        "word": "observations"
+      },
+      {
+        "startTime": 13.4,
+        "endTime": 14.0,
+        "word": "we"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.5,
+        "word": "call"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 15.5,
+        "word": "data."
+      }
+    ],
+    "length": 15.5
+  },
+  {
+    "id": 20,
+    "start": 217.6,
+    "end": 223.3,
+    "text": " And because of data come from samples, we will call that then sample data.",
+    "words": [
+      {
+        "startTime": 1.7,
+        "endTime": 2.2,
+        "word": "And"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.6,
+        "word": "because"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "of"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "data"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "come"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "from"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.8,
+        "word": "samples,"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "we"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "will"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "call"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "that"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "then"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.4,
+        "word": "sample"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.7,
+        "word": "data."
+      }
+    ],
+    "length": 5.700000000000017
+  },
+  {
+    "id": 21,
+    "start": 223.3,
+    "end": 228.7,
+    "text": " Data are classified into two main categories.",
+    "words": [
+      {
+        "startTime": 1.8,
+        "endTime": 2.4,
+        "word": "Data"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "are"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.4,
+        "word": "classified"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "into"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.8,
+        "word": "two"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 5.1,
+        "word": "main"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "categories."
+      }
+    ],
+    "length": 5.399999999999977
+  },
+  {
+    "id": 22,
+    "start": 228.7,
+    "end": 243.5,
+    "text": "We have measurement data and attribute data, the measurement data comes from measurements of characteristics such as the length the with the way to stay amateur the amount of impurity and so on.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "We"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.0,
+        "word": "have"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 2.0,
+        "word": "measurement"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "data"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.9,
+        "word": "and"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.4,
+        "word": "attribute"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "data,"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 5.0,
+        "word": "the"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.7,
+        "word": "measurement"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.9,
+        "word": "data"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.4,
+        "word": "comes"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.6,
+        "word": "from"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.0,
+        "word": "measurements"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.2,
+        "word": "of"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 8.2,
+        "word": "characteristics"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.8,
+        "word": "such"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.1,
+        "word": "as"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.3,
+        "word": "the"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.7,
+        "word": "length"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.6,
+        "word": "the"
+      },
+      {
+        "startTime": 10.6,
+        "endTime": 11.0,
+        "word": "with"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.7,
+        "word": "the"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.0,
+        "word": "way"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.2,
+        "word": "to"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.7,
+        "word": "stay"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 13.1,
+        "word": "amateur"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.3,
+        "word": "the"
+      },
+      {
+        "startTime": 13.3,
+        "endTime": 13.6,
+        "word": "amount"
+      },
+      {
+        "startTime": 13.6,
+        "endTime": 13.7,
+        "word": "of"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.2,
+        "word": "impurity"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.3,
+        "word": "and"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.6,
+        "word": "so"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 14.8,
+        "word": "on."
+      }
+    ],
+    "length": 14.800000000000011
+  },
+  {
+    "id": 23,
+    "start": 243.5,
+    "end": 261.8,
+    "text": "These are in units such as inches pounds kilograms cubic centimeters, and these are known as quantitative data metric data is data that can be Quantified attribute data on the other hand come to inspection.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "These"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "are"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "in"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.7,
+        "word": "units"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "such"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "as"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 3.2,
+        "word": "inches"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 4.0,
+        "word": "pounds"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.8,
+        "word": "kilograms"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.2,
+        "word": "cubic"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.9,
+        "word": "centimeters,"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.7,
+        "word": "and"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.2,
+        "word": "these"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.3,
+        "word": "are"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "known"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.9,
+        "word": "as"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 9.2,
+        "word": "quantitative"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.7,
+        "word": "data"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 11.3,
+        "word": "metric"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.7,
+        "word": "data"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 11.8,
+        "word": "is"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 12.0,
+        "word": "data"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.4,
+        "word": "that"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.5,
+        "word": "can"
+      },
+      {
+        "startTime": 12.5,
+        "endTime": 12.6,
+        "word": "be"
+      },
+      {
+        "startTime": 12.6,
+        "endTime": 13.0,
+        "word": "Quantified"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 15.7,
+        "word": "attribute"
+      },
+      {
+        "startTime": 15.7,
+        "endTime": 15.8,
+        "word": "data"
+      },
+      {
+        "startTime": 15.8,
+        "endTime": 16.2,
+        "word": "on"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.2,
+        "word": "the"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.4,
+        "word": "other"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.7,
+        "word": "hand"
+      },
+      {
+        "startTime": 16.7,
+        "endTime": 17.4,
+        "word": "come"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 17.5,
+        "word": "to"
+      },
+      {
+        "startTime": 17.5,
+        "endTime": 18.3,
+        "word": "inspection."
+      }
+    ],
+    "length": 18.30000000000001
+  },
+  {
+    "id": 24,
+    "start": 261.8,
+    "end": 269.3,
+    "text": "The units are classified based on a tribute examples to be finished color taste smell fit.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "The"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.8,
+        "word": "units"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.8,
+        "word": "are"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.6,
+        "word": "classified"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.7,
+        "word": "based"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "on"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "a"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "tribute"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.6,
+        "word": "examples"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "to"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.0,
+        "word": "be"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.8,
+        "word": "finished"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.6,
+        "word": "color"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.6,
+        "word": "taste"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.0,
+        "word": "smell"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.5,
+        "word": "fit."
+      }
+    ],
+    "length": 7.5
+  },
+  {
+    "id": 25,
+    "start": 269.3,
+    "end": 278.9,
+    "text": " And the results of his tribute inspection will be in things like count such as a number to rough the number to dark the number to tight and so on.",
+    "words": [
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "And"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.4,
+        "word": "the"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "results"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "of"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "his"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.4,
+        "word": "tribute"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 3.1,
+        "word": "inspection"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.2,
+        "word": "will"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.3,
+        "word": "be"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.5,
+        "word": "in"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "things"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "like"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.5,
+        "word": "count"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "such"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "as"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.0,
+        "word": "a"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.3,
+        "word": "number"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "to"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.0,
+        "word": "rough"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.8,
+        "word": "the"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.1,
+        "word": "number"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.4,
+        "word": "to"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.9,
+        "word": "dark"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "the"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.3,
+        "word": "number"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.5,
+        "word": "to"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 9.0,
+        "word": "tight"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.2,
+        "word": "and"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.4,
+        "word": "so"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.6,
+        "word": "on."
+      }
+    ],
+    "length": 9.599999999999966
+  },
+  {
+    "id": 26,
+    "start": 278.9,
+    "end": 282.3,
+    "text": "So attribute data is qualitative data.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "So"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 2.1,
+        "word": "attribute"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "data"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.5,
+        "word": "is"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.1,
+        "word": "qualitative"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.4,
+        "word": "data."
+      }
+    ],
+    "length": 3.400000000000034
+  },
+  {
+    "id": 27,
+    "start": 282.3,
+    "end": 291.7,
+    "text": "This can be either nominal meaning to the data is differentiated by character categories or classifications only there's no order to these categories.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.4,
+        "word": "This"
+      },
+      {
+        "startTime": 0.4,
+        "endTime": 0.6,
+        "word": "can"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "be"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "either"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.9,
+        "word": "nominal"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.7,
+        "word": "meaning"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.8,
+        "word": "to"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "the"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.3,
+        "word": "data"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "is"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.1,
+        "word": "differentiated"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.2,
+        "word": "by"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.9,
+        "word": "character"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.6,
+        "word": "categories"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.1,
+        "word": "or"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 7.0,
+        "word": "classifications"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.5,
+        "word": "only"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.3,
+        "word": "there's"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "no"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.8,
+        "word": "order"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 8.9,
+        "word": "to"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.1,
+        "word": "these"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.4,
+        "word": "categories."
+      }
+    ],
+    "length": 9.399999999999977
+  },
+  {
+    "id": 28,
+    "start": 291.7,
+    "end": 301.3,
+    "text": "This could be hair color nationality religion for example and ordinal meaning that there is a natural order a ranking the categories.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "This"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "could"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "be"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "hair"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.9,
+        "word": "color"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.6,
+        "word": "nationality"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "religion"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.4,
+        "word": "for"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.0,
+        "word": "example"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 5.1,
+        "word": "and"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 6.1,
+        "word": "ordinal"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.8,
+        "word": "meaning"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "that"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.1,
+        "word": "there"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.3,
+        "word": "is"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.3,
+        "word": "a"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "natural"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.0,
+        "word": "order"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.3,
+        "word": "a"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.7,
+        "word": "ranking"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.9,
+        "word": "the"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.6,
+        "word": "categories."
+      }
+    ],
+    "length": 9.600000000000023
+  },
+  {
+    "id": 29,
+    "start": 301.3,
+    "end": 312.4,
+    "text": "Although there's no quantitative difference between the categories example hero be the number of stars for hotel ranking or classification such as poor average good or excellent.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "Although"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "there's"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.1,
+        "word": "no"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 2.4,
+        "word": "quantitative"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.9,
+        "word": "difference"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "between"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.5,
+        "word": "the"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.3,
+        "word": "categories"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 5.2,
+        "word": "example"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.5,
+        "word": "hero"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "be"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "the"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.9,
+        "word": "number"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.0,
+        "word": "of"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.3,
+        "word": "stars"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.6,
+        "word": "for"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.0,
+        "word": "hotel"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.6,
+        "word": "ranking"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.1,
+        "word": "or"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 9.0,
+        "word": "classification"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.2,
+        "word": "such"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.3,
+        "word": "as"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.6,
+        "word": "poor"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.4,
+        "word": "average"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.7,
+        "word": "good"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.8,
+        "word": "or"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.1,
+        "word": "excellent."
+      }
+    ],
+    "length": 11.099999999999966
+  },
+  {
+    "id": 30,
+    "start": 312.4,
+    "end": 316.9,
+    "text": "Excellent is better than good, but we don't know by how much",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.8,
+        "word": "Excellent"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "is"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "better"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "than"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.6,
+        "word": "good,"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "but"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "we"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "don't"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "know"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 4.0,
+        "word": "by"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.3,
+        "word": "how"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "much"
+      }
+    ],
+    "length": 4.5
+  },
+  {
+    "id": 31,
+    "start": 316.9,
+    "end": 324.8,
+    "text": " So Madea tribute data, she said though we were looking at the qualitative aspects.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 1.4,
+        "word": "So"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 2.6,
+        "word": "Madea"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.0,
+        "word": "tribute"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.3,
+        "word": "data,"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 4.2,
+        "word": "she"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "said"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "though"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.1,
+        "word": "we"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "were"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.6,
+        "word": "looking"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.3,
+        "word": "at"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "the"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.0,
+        "word": "qualitative"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.9,
+        "word": "aspects."
+      }
+    ],
+    "length": 7.900000000000034
+  },
+  {
+    "id": 32,
+    "start": 324.8,
+    "end": 327.0,
+    "text": "Is it how rough is it?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "Is"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "it"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.5,
+        "word": "how"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.9,
+        "word": "rough"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.1,
+        "word": "is"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "it?"
+      }
+    ],
+    "length": 2.1999999999999886
+  },
+  {
+    "id": 33,
+    "start": 327.0,
+    "end": 327.8,
+    "text": "How dark is it?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "How"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.6,
+        "word": "dark"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "is"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 0.8,
+        "word": "it?"
+      }
+    ],
+    "length": 0.8000000000000114
+  },
+  {
+    "id": 34,
+    "start": 327.8,
+    "end": 332.1,
+    "text": "And then once we reach a certain level we will consider it then.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "And"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "then"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.2,
+        "word": "once"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "we"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 2.0,
+        "word": "reach"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "a"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.4,
+        "word": "certain"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.5,
+        "word": "level"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.4,
+        "word": "we"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "will"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "consider"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "it"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.3,
+        "word": "then."
+      }
+    ],
+    "length": 4.300000000000011
+  },
+  {
+    "id": 35,
+    "start": 332.1,
+    "end": 336.6,
+    "text": " Defective too dark to rough too tight and so on.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 2.3,
+        "word": "Defective"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "too"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.9,
+        "word": "dark"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "to"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.4,
+        "word": "rough"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "too"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 4.0,
+        "word": "tight"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "and"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "so"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "on."
+      }
+    ],
+    "length": 4.5
+  },
+  {
+    "id": 36,
+    "start": 336.6,
+    "end": 344.4,
+    "text": " Many of you are already familiar with the concept of the average value of a population.",
+    "words": [
+      {
+        "startTime": 2.7,
+        "endTime": 3.3,
+        "word": "Many"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.4,
+        "word": "of"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.5,
+        "word": "you"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.6,
+        "word": "are"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.8,
+        "word": "already"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.2,
+        "word": "familiar"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.6,
+        "word": "with"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "the"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.1,
+        "word": "concept"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.5,
+        "word": "of"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.7,
+        "word": "the"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.4,
+        "word": "average"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.1,
+        "word": "value"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.4,
+        "word": "of"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "a"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.8,
+        "word": "population."
+      }
+    ],
+    "length": 7.7999999999999545
+  },
+  {
+    "id": 37,
+    "start": 344.4,
+    "end": 357.8,
+    "text": " This average value or mean which is given by the Greek letter mu represents the center point around which the data the population is distributed.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 2.1,
+        "word": "This"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.5,
+        "word": "average"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.1,
+        "word": "value"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.4,
+        "word": "or"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.2,
+        "word": "mean"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.0,
+        "word": "which"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.2,
+        "word": "is"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.5,
+        "word": "given"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "by"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.6,
+        "word": "the"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.9,
+        "word": "Greek"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.3,
+        "word": "letter"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.7,
+        "word": "mu"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 8.4,
+        "word": "represents"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.5,
+        "word": "the"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 9.1,
+        "word": "center"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.4,
+        "word": "point"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 10.3,
+        "word": "around"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.7,
+        "word": "which"
+      },
+      {
+        "startTime": 10.7,
+        "endTime": 10.9,
+        "word": "the"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.2,
+        "word": "data"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.9,
+        "word": "the"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.7,
+        "word": "population"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.9,
+        "word": "is"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.4,
+        "word": "distributed."
+      }
+    ],
+    "length": 13.400000000000034
+  },
+  {
+    "id": 38,
+    "start": 357.8,
+    "end": 378.0,
+    "text": " The standard deviation of the population represents the amount of variability or the dispersion in the data about the center point about the meeting so you can see that here in this example picture.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "The"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.2,
+        "word": "standard"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "deviation"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 5.6,
+        "word": "of"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "the"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.9,
+        "word": "population"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 7.5,
+        "word": "represents"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.7,
+        "word": "the"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.1,
+        "word": "amount"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.9,
+        "word": "of"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 10.3,
+        "word": "variability"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 11.5,
+        "word": "or"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 11.6,
+        "word": "the"
+      },
+      {
+        "startTime": 11.6,
+        "endTime": 12.4,
+        "word": "dispersion"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 12.7,
+        "word": "in"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.8,
+        "word": "the"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 13.1,
+        "word": "data"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.5,
+        "word": "about"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 14.2,
+        "word": "the"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.5,
+        "word": "center"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 14.8,
+        "word": "point"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.3,
+        "word": "about"
+      },
+      {
+        "startTime": 15.3,
+        "endTime": 16.0,
+        "word": "the"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.6,
+        "word": "meeting"
+      },
+      {
+        "startTime": 16.6,
+        "endTime": 17.1,
+        "word": "so"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.1,
+        "word": "you"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.3,
+        "word": "can"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.6,
+        "word": "see"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 17.7,
+        "word": "that"
+      },
+      {
+        "startTime": 17.7,
+        "endTime": 18.1,
+        "word": "here"
+      },
+      {
+        "startTime": 18.1,
+        "endTime": 18.3,
+        "word": "in"
+      },
+      {
+        "startTime": 18.3,
+        "endTime": 18.4,
+        "word": "this"
+      },
+      {
+        "startTime": 18.4,
+        "endTime": 19.6,
+        "word": "example"
+      },
+      {
+        "startTime": 19.6,
+        "endTime": 20.2,
+        "word": "picture."
+      }
+    ],
+    "length": 20.19999999999999
+  },
+  {
+    "id": 39,
+    "start": 378.0,
+    "end": 384.1,
+    "text": "The square of the standard deviation is called the variance Sue, please",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "The"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.9,
+        "word": "square"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.0,
+        "word": "of"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "the"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "standard"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.7,
+        "word": "deviation"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.1,
+        "word": "is"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.6,
+        "word": "called"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "the"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.5,
+        "word": "variance"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.5,
+        "word": "Sue,"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.1,
+        "word": "please"
+      }
+    ],
+    "length": 6.100000000000023
+  },
+  {
+    "id": 40,
+    "start": 384.1,
+    "end": 394.8,
+    "text": " memorize those three terms because we use them now for the rest of this course and it will look at them in more detail than in the next section how we calculate these",
+    "words": [
+      {
+        "startTime": 1.9,
+        "endTime": 2.7,
+        "word": "memorize"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.8,
+        "word": "those"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "three"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "terms"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "because"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "we"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "use"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "them"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.4,
+        "word": "now"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "for"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.7,
+        "word": "the"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "rest"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.1,
+        "word": "of"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "this"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.9,
+        "word": "course"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.6,
+        "word": "and"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.7,
+        "word": "it"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.9,
+        "word": "will"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.1,
+        "word": "look"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "at"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.3,
+        "word": "them"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "in"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "more"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.0,
+        "word": "detail"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.6,
+        "word": "than"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.8,
+        "word": "in"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 8.9,
+        "word": "the"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.2,
+        "word": "next"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.5,
+        "word": "section"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.9,
+        "word": "how"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.0,
+        "word": "we"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.3,
+        "word": "calculate"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.7,
+        "word": "these"
+      }
+    ],
+    "length": 10.699999999999989
+  },
+  {
+    "id": 41,
+    "start": 394.8,
+    "end": 400.9,
+    "text": " If we take a sample.",
+    "words": [
+      {
+        "startTime": 3.3,
+        "endTime": 4.5,
+        "word": "If"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.3,
+        "word": "we"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.4,
+        "word": "take"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "a"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.1,
+        "word": "sample."
+      }
+    ],
+    "length": 6.099999999999966
+  },
+  {
+    "id": 42,
+    "start": 400.9,
+    "end": 410.6,
+    "text": " Our entire population we can calculate the average the mean and the sample average and the standard deviation.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "Our"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.3,
+        "word": "entire"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 3.0,
+        "word": "population"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.9,
+        "word": "we"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "can"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.6,
+        "word": "calculate"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.1,
+        "word": "the"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.5,
+        "word": "average"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.6,
+        "word": "the"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.7,
+        "word": "mean"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.5,
+        "word": "and"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.5,
+        "word": "the"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.7,
+        "word": "sample"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 9.1,
+        "word": "average"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.3,
+        "word": "and"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.3,
+        "word": "the"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.6,
+        "word": "standard"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 9.7,
+        "word": "deviation."
+      }
+    ],
+    "length": 9.700000000000045
+  },
+  {
+    "id": 43,
+    "start": 410.6,
+    "end": 413.8,
+    "text": "We can estimate them from the sample data.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "We"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.3,
+        "word": "can"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "estimate"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.3,
+        "word": "them"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.5,
+        "word": "from"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "the"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.0,
+        "word": "sample"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "data."
+      }
+    ],
+    "length": 3.1999999999999886
+  },
+  {
+    "id": 44,
+    "start": 413.8,
+    "end": 436.1,
+    "text": "This is that an example of our using statistics to estimate the population model from the sample to sample average is given by the symbol X bar and this is the sum of all the I observations in the sample of eye elements / n",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.3,
+        "word": "This"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "is"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.1,
+        "word": "that"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.2,
+        "word": "an"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "example"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.8,
+        "word": "of"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.0,
+        "word": "our"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.5,
+        "word": "using"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 5.1,
+        "word": "statistics"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.7,
+        "word": "to"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.2,
+        "word": "estimate"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.3,
+        "word": "the"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.5,
+        "word": "population"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.5,
+        "word": "model"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.7,
+        "word": "from"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.7,
+        "word": "the"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.2,
+        "word": "sample"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 9.0,
+        "word": "to"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.3,
+        "word": "sample"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 10.1,
+        "word": "average"
+      },
+      {
+        "startTime": 10.1,
+        "endTime": 10.2,
+        "word": "is"
+      },
+      {
+        "startTime": 10.2,
+        "endTime": 10.5,
+        "word": "given"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.8,
+        "word": "by"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.7,
+        "word": "the"
+      },
+      {
+        "startTime": 11.7,
+        "endTime": 12.1,
+        "word": "symbol"
+      },
+      {
+        "startTime": 12.1,
+        "endTime": 12.4,
+        "word": "X"
+      },
+      {
+        "startTime": 12.4,
+        "endTime": 13.0,
+        "word": "bar"
+      },
+      {
+        "startTime": 13.0,
+        "endTime": 13.5,
+        "word": "and"
+      },
+      {
+        "startTime": 13.5,
+        "endTime": 13.7,
+        "word": "this"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 13.9,
+        "word": "is"
+      },
+      {
+        "startTime": 13.9,
+        "endTime": 14.0,
+        "word": "the"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.6,
+        "word": "sum"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 15.1,
+        "word": "of"
+      },
+      {
+        "startTime": 15.1,
+        "endTime": 15.5,
+        "word": "all"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 16.0,
+        "word": "the"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.3,
+        "word": "I"
+      },
+      {
+        "startTime": 16.3,
+        "endTime": 17.2,
+        "word": "observations"
+      },
+      {
+        "startTime": 17.2,
+        "endTime": 17.4,
+        "word": "in"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 17.4,
+        "word": "the"
+      },
+      {
+        "startTime": 17.4,
+        "endTime": 18.0,
+        "word": "sample"
+      },
+      {
+        "startTime": 18.0,
+        "endTime": 18.3,
+        "word": "of"
+      },
+      {
+        "startTime": 18.3,
+        "endTime": 18.6,
+        "word": "eye"
+      },
+      {
+        "startTime": 18.6,
+        "endTime": 19.8,
+        "word": "elements"
+      },
+      {
+        "startTime": 19.8,
+        "endTime": 21.0,
+        "word": "/"
+      },
+      {
+        "startTime": 21.0,
+        "endTime": 22.3,
+        "word": "n"
+      }
+    ],
+    "length": 22.30000000000001
+  },
+  {
+    "id": 45,
+    "start": 436.1,
+    "end": 442.3,
+    "text": " What is the sample size?",
+    "words": [
+      {
+        "startTime": 2.2,
+        "endTime": 2.8,
+        "word": "What"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 4.3,
+        "word": "is"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "the"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 5.9,
+        "word": "sample"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.2,
+        "word": "size?"
+      }
+    ],
+    "length": 6.199999999999989
+  },
+  {
+    "id": 46,
+    "start": 442.3,
+    "end": 458.9,
+    "text": " the sample standard deviation or S is the square root of the sum of the squared difference of all the observations in the sample / + -1 and again these two",
+    "words": [
+      {
+        "startTime": 3.5,
+        "endTime": 3.9,
+        "word": "the"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.2,
+        "word": "sample"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.3,
+        "word": "standard"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "deviation"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.1,
+        "word": "or"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.9,
+        "word": "S"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.8,
+        "word": "is"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "the"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.3,
+        "word": "square"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "root"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.7,
+        "word": "of"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 7.8,
+        "word": "the"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.0,
+        "word": "sum"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.2,
+        "word": "of"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.3,
+        "word": "the"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.7,
+        "word": "squared"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 9.1,
+        "word": "difference"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 9.2,
+        "word": "of"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.4,
+        "word": "all"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.5,
+        "word": "the"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.8,
+        "word": "observations"
+      },
+      {
+        "startTime": 9.8,
+        "endTime": 10.4,
+        "word": "in"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.4,
+        "word": "the"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.9,
+        "word": "sample"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.9,
+        "word": "/"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 13.1,
+        "word": "+"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 14.2,
+        "word": "-1"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 15.2,
+        "word": "and"
+      },
+      {
+        "startTime": 15.2,
+        "endTime": 15.4,
+        "word": "again"
+      },
+      {
+        "startTime": 15.4,
+        "endTime": 16.0,
+        "word": "these"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.6,
+        "word": "two"
+      }
+    ],
+    "length": 16.599999999999966
+  },
+  {
+    "id": 47,
+    "start": 458.9,
+    "end": 466.6,
+    "text": " give us a measure for the variability the central point of our sample data.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.9,
+        "word": "give"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.3,
+        "word": "us"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.9,
+        "word": "a"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.3,
+        "word": "measure"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.6,
+        "word": "for"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "the"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.3,
+        "word": "variability"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 5.5,
+        "word": "the"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.0,
+        "word": "central"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.1,
+        "word": "point"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.3,
+        "word": "of"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.6,
+        "word": "our"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.4,
+        "word": "sample"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.7,
+        "word": "data."
+      }
+    ],
+    "length": 7.7000000000000455
+  },
+  {
+    "id": 48,
+    "start": 466.6,
+    "end": 468.4,
+    "text": " Let's go.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 1.6,
+        "word": "Let's"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "go."
+      }
+    ],
+    "length": 1.7999999999999545
+  },
+  {
+    "id": 49,
+    "start": 468.4,
+    "end": 478.6,
+    "text": " To summarize everything if we have a population and sigma are the population mean and standard deviation respectively.",
+    "words": [
+      {
+        "startTime": 0.9,
+        "endTime": 1.5,
+        "word": "To"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.4,
+        "word": "summarize"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "everything"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.5,
+        "word": "if"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "we"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "have"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "a"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.5,
+        "word": "population"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 6.4,
+        "word": "and"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.9,
+        "word": "sigma"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "are"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.1,
+        "word": "the"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.7,
+        "word": "population"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.2,
+        "word": "mean"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.8,
+        "word": "and"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.0,
+        "word": "standard"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.1,
+        "word": "deviation"
+      },
+      {
+        "startTime": 9.1,
+        "endTime": 10.2,
+        "word": "respectively."
+      }
+    ],
+    "length": 10.200000000000045
+  },
+  {
+    "id": 50,
+    "start": 478.6,
+    "end": 491.1,
+    "text": "We can take a sample from the population and we can calculate the sample mean X bar and the sample standard deviation deviation s from our sample.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "We"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.2,
+        "word": "can"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.5,
+        "word": "take"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.7,
+        "word": "a"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "sample"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.5,
+        "word": "from"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "the"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "population"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 4.1,
+        "word": "and"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.2,
+        "word": "we"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "can"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.8,
+        "word": "calculate"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.5,
+        "word": "the"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.1,
+        "word": "sample"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.6,
+        "word": "mean"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "X"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.1,
+        "word": "bar"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.9,
+        "word": "and"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "the"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.5,
+        "word": "sample"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.7,
+        "word": "standard"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.9,
+        "word": "deviation"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 10.4,
+        "word": "deviation"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 11.0,
+        "word": "s"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.8,
+        "word": "from"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 11.9,
+        "word": "our"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.5,
+        "word": "sample."
+      }
+    ],
+    "length": 12.5
+  },
+  {
+    "id": 51,
+    "start": 491.1,
+    "end": 502.0,
+    "text": " Are expired, srr sample statistics and you bought Mew and sigma are population parameters.",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 2.5,
+        "word": "Are"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.0,
+        "word": "expired,"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 4.1,
+        "word": "srr"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.7,
+        "word": "sample"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 6.0,
+        "word": "statistics"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.7,
+        "word": "and"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.0,
+        "word": "you"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.3,
+        "word": "bought"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "Mew"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 7.8,
+        "word": "and"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.2,
+        "word": "sigma"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.4,
+        "word": "are"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 9.5,
+        "word": "population"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 10.9,
+        "word": "parameters."
+      }
+    ],
+    "length": 10.899999999999977
+  },
+  {
+    "id": 52,
+    "start": 502.0,
+    "end": 513.1,
+    "text": " A last note at the difference between quality and variability.",
+    "words": [
+      {
+        "startTime": 5.5,
+        "endTime": 5.8,
+        "word": "A"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.6,
+        "word": "last"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 7.0,
+        "word": "note"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.5,
+        "word": "at"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.5,
+        "word": "the"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.0,
+        "word": "difference"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.0,
+        "word": "between"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 9.7,
+        "word": "quality"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.4,
+        "word": "and"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 11.1,
+        "word": "variability."
+      }
+    ],
+    "length": 11.100000000000023
+  },
+  {
+    "id": 53,
+    "start": 513.1,
+    "end": 516.2,
+    "text": " Two bull's-eyes.",
+    "words": [
+      {
+        "startTime": 1.5,
+        "endTime": 2.5,
+        "word": "Two"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.1,
+        "word": "bull's-eyes."
+      }
+    ],
+    "length": 3.1000000000000227
+  },
+  {
+    "id": 54,
+    "start": 516.2,
+    "end": 518.5,
+    "text": "I'm to Sharpshooters.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.0,
+        "word": "I'm"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.3,
+        "word": "to"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 2.3,
+        "word": "Sharpshooters."
+      }
+    ],
+    "length": 2.2999999999999545
+  },
+  {
+    "id": 55,
+    "start": 518.5,
+    "end": 521.4,
+    "text": " Who is the better Marksman?",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "Who"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "is"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "the"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.3,
+        "word": "better"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.9,
+        "word": "Marksman?"
+      }
+    ],
+    "length": 2.8999999999999773
+  },
+  {
+    "id": 56,
+    "start": 521.4,
+    "end": 526.1,
+    "text": " Is a marksman a or is it Marksman?",
+    "words": [
+      {
+        "startTime": 1.7,
+        "endTime": 2.0,
+        "word": "Is"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.1,
+        "word": "a"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.7,
+        "word": "marksman"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 3.2,
+        "word": "a"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.9,
+        "word": "or"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.0,
+        "word": "is"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.1,
+        "word": "it"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.7,
+        "word": "Marksman?"
+      }
+    ],
+    "length": 4.7000000000000455
+  },
+  {
+    "id": 57,
+    "start": 526.1,
+    "end": 527.1,
+    "text": "What would you say?",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "What"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "would"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "you"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "say?"
+      }
+    ],
+    "length": 1.0
+  },
+  {
+    "id": 58,
+    "start": 527.1,
+    "end": 533.4,
+    "text": " The bullseye here on the left.",
+    "words": [
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "The"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.2,
+        "word": "bullseye"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.5,
+        "word": "here"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "on"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.7,
+        "word": "the"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.3,
+        "word": "left."
+      }
+    ],
+    "length": 6.2999999999999545
+  },
+  {
+    "id": 59,
+    "start": 533.4,
+    "end": 536.0,
+    "text": " We're on the way I should say.",
+    "words": [
+      {
+        "startTime": 1.0,
+        "endTime": 1.5,
+        "word": "We're"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "on"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.7,
+        "word": "the"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "way"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.3,
+        "word": "I"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "should"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "say."
+      }
+    ],
+    "length": 2.6000000000000227
+  },
+  {
+    "id": 60,
+    "start": 536.0,
+    "end": 538.5,
+    "text": "It shows that we have always.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "It"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.9,
+        "word": "shows"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.0,
+        "word": "that"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "we"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "have"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 2.5,
+        "word": "always."
+      }
+    ],
+    "length": 2.5
+  },
+  {
+    "id": 61,
+    "start": 538.5,
+    "end": 544.2,
+    "text": " Shots that are just off the target.",
+    "words": [
+      {
+        "startTime": 1.5,
+        "endTime": 3.0,
+        "word": "Shots"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.1,
+        "word": "that"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.4,
+        "word": "are"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.8,
+        "word": "just"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.4,
+        "word": "off"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.2,
+        "word": "the"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.7,
+        "word": "target."
+      }
+    ],
+    "length": 5.7000000000000455
+  },
+  {
+    "id": 62,
+    "start": 544.2,
+    "end": 553.5,
+    "text": " Wow, be Marksman be he's consistently shooting around the target, which is better.",
+    "words": [
+      {
+        "startTime": 1.4,
+        "endTime": 1.8,
+        "word": "Wow,"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 3.4,
+        "word": "be"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 4.3,
+        "word": "Marksman"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.5,
+        "word": "be"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "he's"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.5,
+        "word": "consistently"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.9,
+        "word": "shooting"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.6,
+        "word": "around"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.9,
+        "word": "the"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.2,
+        "word": "target,"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 8.8,
+        "word": "which"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.0,
+        "word": "is"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.3,
+        "word": "better."
+      }
+    ],
+    "length": 9.299999999999955
+  },
+  {
+    "id": 63,
+    "start": 553.5,
+    "end": 557.1,
+    "text": " But we have to learn from this.",
+    "words": [
+      {
+        "startTime": 1.6,
+        "endTime": 2.6,
+        "word": "But"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.7,
+        "word": "we"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.8,
+        "word": "have"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 2.9,
+        "word": "to"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "learn"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.4,
+        "word": "from"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.6,
+        "word": "this."
+      }
+    ],
+    "length": 3.6000000000000227
+  },
+  {
+    "id": 64,
+    "start": 557.1,
+    "end": 558.9,
+    "text": "This is an animated slide.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.6,
+        "word": "This"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.8,
+        "word": "is"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "an"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.3,
+        "word": "animated"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "slide."
+      }
+    ],
+    "length": 1.7999999999999545
+  },
+  {
+    "id": 65,
+    "start": 558.9,
+    "end": 561.3,
+    "text": "So watch watch Marksman a",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "So"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.6,
+        "word": "watch"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 1.0,
+        "word": "watch"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 2.2,
+        "word": "Marksman"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "a"
+      }
+    ],
+    "length": 2.3999999999999773
+  },
+  {
+    "id": 66,
+    "start": 561.3,
+    "end": 565.8,
+    "text": " to reduce the defects.",
+    "words": [
+      {
+        "startTime": 2.6,
+        "endTime": 3.0,
+        "word": "to"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.4,
+        "word": "reduce"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.7,
+        "word": "the"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.5,
+        "word": "defects."
+      }
+    ],
+    "length": 4.5
+  },
+  {
+    "id": 67,
+    "start": 565.8,
+    "end": 572.6,
+    "text": "We need to reduce variability and Target the mean in this case.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "We"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.3,
+        "word": "need"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "to"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.9,
+        "word": "reduce"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.8,
+        "word": "variability"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.3,
+        "word": "and"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.9,
+        "word": "Target"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.1,
+        "word": "the"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.5,
+        "word": "mean"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.2,
+        "word": "in"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.3,
+        "word": "this"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.8,
+        "word": "case."
+      }
+    ],
+    "length": 6.800000000000068
+  },
+  {
+    "id": 68,
+    "start": 572.6,
+    "end": 576.5,
+    "text": " It's typically easier.",
+    "words": [
+      {
+        "startTime": 1.7,
+        "endTime": 2.2,
+        "word": "It's"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.9,
+        "word": "typically"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.9,
+        "word": "easier."
+      }
+    ],
+    "length": 3.8999999999999773
+  },
+  {
+    "id": 69,
+    "start": 576.5,
+    "end": 582.6,
+    "text": " To change the me that it is to change the variation.",
+    "words": [
+      {
+        "startTime": 1.6,
+        "endTime": 2.0,
+        "word": "To"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "change"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "the"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.0,
+        "word": "me"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 4.2,
+        "word": "that"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "it"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "is"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.8,
+        "word": "to"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "change"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.3,
+        "word": "the"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 6.1,
+        "word": "variation."
+      }
+    ],
+    "length": 6.100000000000023
+  },
+  {
+    "id": 70,
+    "start": 582.6,
+    "end": 600.5,
+    "text": " Because every population has some degree of variability in it, whether it's a diameter of your bolt to the hardness of your piston rings and the amount of cereal in a box all the populations have some variability the difference from unit to unit.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.9,
+        "word": "Because"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 3.0,
+        "word": "every"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.8,
+        "word": "population"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "has"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.2,
+        "word": "some"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.5,
+        "word": "degree"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "of"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.1,
+        "word": "variability"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.5,
+        "word": "in"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.7,
+        "word": "it,"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.6,
+        "word": "whether"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "it's"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "a"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.2,
+        "word": "diameter"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.4,
+        "word": "of"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.6,
+        "word": "your"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.1,
+        "word": "bolt"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.3,
+        "word": "to"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "the"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.7,
+        "word": "hardness"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.9,
+        "word": "of"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.0,
+        "word": "your"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.5,
+        "word": "piston"
+      },
+      {
+        "startTime": 9.5,
+        "endTime": 9.9,
+        "word": "rings"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 9.9,
+        "word": "and"
+      },
+      {
+        "startTime": 9.9,
+        "endTime": 10.0,
+        "word": "the"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.4,
+        "word": "amount"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.4,
+        "word": "of"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.8,
+        "word": "cereal"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 10.9,
+        "word": "in"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.0,
+        "word": "a"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.0,
+        "word": "box"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.9,
+        "word": "all"
+      },
+      {
+        "startTime": 11.9,
+        "endTime": 12.0,
+        "word": "the"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.7,
+        "word": "populations"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.8,
+        "word": "have"
+      },
+      {
+        "startTime": 12.8,
+        "endTime": 12.9,
+        "word": "some"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 14.0,
+        "word": "variability"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 16.5,
+        "word": "the"
+      },
+      {
+        "startTime": 16.5,
+        "endTime": 17.1,
+        "word": "difference"
+      },
+      {
+        "startTime": 17.1,
+        "endTime": 17.3,
+        "word": "from"
+      },
+      {
+        "startTime": 17.3,
+        "endTime": 17.6,
+        "word": "unit"
+      },
+      {
+        "startTime": 17.6,
+        "endTime": 17.8,
+        "word": "to"
+      },
+      {
+        "startTime": 17.8,
+        "endTime": 17.9,
+        "word": "unit."
+      }
+    ],
+    "length": 17.899999999999977
+  },
+  {
+    "id": 71,
+    "start": 600.5,
+    "end": 602.5,
+    "text": "That is the cause of poor quality.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.8,
+        "word": "That"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.0,
+        "word": "is"
+      },
+      {
+        "startTime": 1.0,
+        "endTime": 1.1,
+        "word": "the"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "cause"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.6,
+        "word": "of"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 1.8,
+        "word": "poor"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "quality."
+      }
+    ],
+    "length": 2.0
+  },
+  {
+    "id": 72,
+    "start": 602.5,
+    "end": 611.0,
+    "text": "And therefore this is managed the effort to achieve quality in products or services.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.4,
+        "word": "And"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 2.0,
+        "word": "therefore"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.3,
+        "word": "this"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 4.2,
+        "word": "is"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.9,
+        "word": "managed"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.6,
+        "word": "the"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 6.0,
+        "word": "effort"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.1,
+        "word": "to"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.2,
+        "word": "achieve"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 7.3,
+        "word": "quality"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "in"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.9,
+        "word": "products"
+      },
+      {
+        "startTime": 7.9,
+        "endTime": 8.0,
+        "word": "or"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.5,
+        "word": "services."
+      }
+    ],
+    "length": 8.5
+  },
+  {
+    "id": 73,
+    "start": 611.0,
+    "end": 621.9,
+    "text": " And in this case, we see that if the Sharpshooter a wood chips move a little bit over he would be shooting consistently on target for be on the other hand.",
+    "words": [
+      {
+        "startTime": 1.9,
+        "endTime": 2.3,
+        "word": "And"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.4,
+        "word": "in"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "this"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "case,"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 3.1,
+        "word": "we"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.4,
+        "word": "see"
+      },
+      {
+        "startTime": 3.4,
+        "endTime": 3.7,
+        "word": "that"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "if"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "the"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.7,
+        "word": "Sharpshooter"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.8,
+        "word": "a"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "wood"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "chips"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.7,
+        "word": "move"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 5.8,
+        "word": "a"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "little"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "bit"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.4,
+        "word": "over"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 7.2,
+        "word": "he"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.3,
+        "word": "would"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.5,
+        "word": "be"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 7.7,
+        "word": "shooting"
+      },
+      {
+        "startTime": 7.7,
+        "endTime": 8.2,
+        "word": "consistently"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.6,
+        "word": "on"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.2,
+        "word": "target"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.7,
+        "word": "for"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.0,
+        "word": "be"
+      },
+      {
+        "startTime": 10.0,
+        "endTime": 10.3,
+        "word": "on"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.3,
+        "word": "the"
+      },
+      {
+        "startTime": 10.3,
+        "endTime": 10.5,
+        "word": "other"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.9,
+        "word": "hand."
+      }
+    ],
+    "length": 10.899999999999977
+  },
+  {
+    "id": 74,
+    "start": 621.9,
+    "end": 626.5,
+    "text": "We would have to reduce the variability, which is generally the more difficult.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.1,
+        "word": "We"
+      },
+      {
+        "startTime": 0.1,
+        "endTime": 0.3,
+        "word": "would"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.5,
+        "word": "have"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.7,
+        "word": "to"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 1.5,
+        "word": "reduce"
+      },
+      {
+        "startTime": 1.5,
+        "endTime": 1.8,
+        "word": "the"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.1,
+        "word": "variability,"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 3.7,
+        "word": "which"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "is"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "generally"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.2,
+        "word": "the"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "more"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.6,
+        "word": "difficult."
+      }
+    ],
+    "length": 4.600000000000023
+  },
+  {
+    "id": 75,
+    "start": 626.5,
+    "end": 629.0,
+    "text": " Okay.",
+    "words": [
+      {
+        "startTime": 1.9,
+        "endTime": 2.5,
+        "word": "Okay."
+      }
+    ],
+    "length": 2.5
+  },
+  {
+    "id": 76,
+    "start": 629.0,
+    "end": 630.8,
+    "text": " cell",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "cell"
+      }
+    ],
+    "length": 1.7999999999999545
+  },
+  {
+    "id": 77,
+    "start": 630.8,
+    "end": 635.8,
+    "text": " excessive every population is variability in it.",
+    "words": [
+      {
+        "startTime": 1.6,
+        "endTime": 2.9,
+        "word": "excessive"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.2,
+        "word": "every"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.8,
+        "word": "population"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 3.9,
+        "word": "is"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.4,
+        "word": "variability"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.7,
+        "word": "in"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.0,
+        "word": "it."
+      }
+    ],
+    "length": 5.0
+  },
+  {
+    "id": 78,
+    "start": 635.8,
+    "end": 650.8,
+    "text": " And excessive variability causes of poor quality and here we have an example of still Waits The Fill waves.",
+    "words": [
+      {
+        "startTime": 1.1,
+        "endTime": 1.9,
+        "word": "And"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 3.7,
+        "word": "excessive"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.2,
+        "word": "variability"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 5.5,
+        "word": "causes"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 5.6,
+        "word": "of"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "poor"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "quality"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.5,
+        "word": "and"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.9,
+        "word": "here"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.1,
+        "word": "we"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "have"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 8.0,
+        "word": "an"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.5,
+        "word": "example"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.9,
+        "word": "of"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 11.3,
+        "word": "still"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.8,
+        "word": "Waits"
+      },
+      {
+        "startTime": 11.8,
+        "endTime": 14.0,
+        "word": "The"
+      },
+      {
+        "startTime": 14.0,
+        "endTime": 14.4,
+        "word": "Fill"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 15.0,
+        "word": "waves."
+      }
+    ],
+    "length": 15.0
+  },
+  {
+    "id": 79,
+    "start": 650.8,
+    "end": 656.6,
+    "text": " I'm 20 lb boxes.",
+    "words": [
+      {
+        "startTime": 3.0,
+        "endTime": 3.5,
+        "word": "I'm"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 4.0,
+        "word": "20"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.7,
+        "word": "lb"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.8,
+        "word": "boxes."
+      }
+    ],
+    "length": 5.800000000000068
+  },
+  {
+    "id": 80,
+    "start": 656.6,
+    "end": 667.9,
+    "text": " And you can see should be 20 lb, but we have a variety of variation in the fill weight of our different boxes.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "And"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "you"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.0,
+        "word": "can"
+      },
+      {
+        "startTime": 2.0,
+        "endTime": 2.2,
+        "word": "see"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 3.7,
+        "word": "should"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "be"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.0,
+        "word": "20"
+      },
+      {
+        "startTime": 4.0,
+        "endTime": 4.4,
+        "word": "lb,"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.3,
+        "word": "but"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 5.4,
+        "word": "we"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.8,
+        "word": "have"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.4,
+        "word": "a"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.9,
+        "word": "variety"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.6,
+        "word": "of"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.9,
+        "word": "variation"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.0,
+        "word": "in"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.0,
+        "word": "the"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.4,
+        "word": "fill"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 9.6,
+        "word": "weight"
+      },
+      {
+        "startTime": 9.6,
+        "endTime": 10.4,
+        "word": "of"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.5,
+        "word": "our"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.8,
+        "word": "different"
+      },
+      {
+        "startTime": 10.8,
+        "endTime": 11.3,
+        "word": "boxes."
+      }
+    ],
+    "length": 11.299999999999955
+  },
+  {
+    "id": 81,
+    "start": 667.9,
+    "end": 672.8,
+    "text": " And we have here a lower specification.",
+    "words": [
+      {
+        "startTime": 2.2,
+        "endTime": 3.3,
+        "word": "And"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.7,
+        "word": "we"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.9,
+        "word": "have"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.1,
+        "word": "here"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "a"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.6,
+        "word": "lower"
+      },
+      {
+        "startTime": 4.6,
+        "endTime": 4.9,
+        "word": "specification."
+      }
+    ],
+    "length": 4.899999999999977
+  },
+  {
+    "id": 82,
+    "start": 672.8,
+    "end": 686.7,
+    "text": "We have some points that are either at the lower specification or lower and this means that the boxes are not acceptable to the customer the problems in this line a year have to be resolved.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.7,
+        "word": "We"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.9,
+        "word": "have"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.3,
+        "word": "some"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.9,
+        "word": "points"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.9,
+        "word": "that"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.0,
+        "word": "are"
+      },
+      {
+        "startTime": 3.0,
+        "endTime": 3.2,
+        "word": "either"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.5,
+        "word": "at"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.6,
+        "word": "the"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.9,
+        "word": "lower"
+      },
+      {
+        "startTime": 3.9,
+        "endTime": 4.5,
+        "word": "specification"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.8,
+        "word": "or"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.3,
+        "word": "lower"
+      },
+      {
+        "startTime": 5.3,
+        "endTime": 6.4,
+        "word": "and"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.5,
+        "word": "this"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.8,
+        "word": "means"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.8,
+        "word": "that"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 7.0,
+        "word": "the"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.3,
+        "word": "boxes"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.4,
+        "word": "are"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 7.5,
+        "word": "not"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.0,
+        "word": "acceptable"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.1,
+        "word": "to"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.3,
+        "word": "the"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.8,
+        "word": "customer"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.7,
+        "word": "the"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.4,
+        "word": "problems"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.5,
+        "word": "in"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 11.3,
+        "word": "this"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 12.0,
+        "word": "line"
+      },
+      {
+        "startTime": 12.0,
+        "endTime": 12.2,
+        "word": "a"
+      },
+      {
+        "startTime": 12.2,
+        "endTime": 12.7,
+        "word": "year"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.9,
+        "word": "have"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.2,
+        "word": "to"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.3,
+        "word": "be"
+      },
+      {
+        "startTime": 13.3,
+        "endTime": 13.9,
+        "word": "resolved."
+      }
+    ],
+    "length": 13.900000000000091
+  },
+  {
+    "id": 83,
+    "start": 686.7,
+    "end": 701.5,
+    "text": " So what you could do is you could just fill all the boxes more that would mean all of these weights would go up the Highpoint also going up.",
+    "words": [
+      {
+        "startTime": 1.2,
+        "endTime": 1.6,
+        "word": "So"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.2,
+        "word": "what"
+      },
+      {
+        "startTime": 2.2,
+        "endTime": 2.4,
+        "word": "you"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.6,
+        "word": "could"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 2.8,
+        "word": "do"
+      },
+      {
+        "startTime": 2.8,
+        "endTime": 4.5,
+        "word": "is"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.7,
+        "word": "you"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 4.9,
+        "word": "could"
+      },
+      {
+        "startTime": 4.9,
+        "endTime": 5.2,
+        "word": "just"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.8,
+        "word": "fill"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 6.0,
+        "word": "all"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.2,
+        "word": "the"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.6,
+        "word": "boxes"
+      },
+      {
+        "startTime": 6.6,
+        "endTime": 6.8,
+        "word": "more"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 8.1,
+        "word": "that"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.2,
+        "word": "would"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.4,
+        "word": "mean"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.8,
+        "word": "all"
+      },
+      {
+        "startTime": 8.8,
+        "endTime": 9.0,
+        "word": "of"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.2,
+        "word": "these"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.7,
+        "word": "weights"
+      },
+      {
+        "startTime": 9.7,
+        "endTime": 10.4,
+        "word": "would"
+      },
+      {
+        "startTime": 10.4,
+        "endTime": 10.5,
+        "word": "go"
+      },
+      {
+        "startTime": 10.5,
+        "endTime": 10.9,
+        "word": "up"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 13.3,
+        "word": "the"
+      },
+      {
+        "startTime": 13.3,
+        "endTime": 13.8,
+        "word": "Highpoint"
+      },
+      {
+        "startTime": 13.8,
+        "endTime": 14.2,
+        "word": "also"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.6,
+        "word": "going"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 14.8,
+        "word": "up."
+      }
+    ],
+    "length": 14.799999999999955
+  },
+  {
+    "id": 84,
+    "start": 701.5,
+    "end": 713.2,
+    "text": " And this means the what boxes are already Fuller over full maybe would not be able to closed and there's also means that you would be putting more product.",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.8,
+        "word": "And"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 2.4,
+        "word": "this"
+      },
+      {
+        "startTime": 2.4,
+        "endTime": 2.7,
+        "word": "means"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "the"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "what"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "boxes"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.6,
+        "word": "are"
+      },
+      {
+        "startTime": 3.6,
+        "endTime": 3.7,
+        "word": "already"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.5,
+        "word": "Fuller"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 4.8,
+        "word": "over"
+      },
+      {
+        "startTime": 4.8,
+        "endTime": 5.1,
+        "word": "full"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 6.5,
+        "word": "maybe"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 6.7,
+        "word": "would"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 6.8,
+        "word": "not"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.8,
+        "word": "be"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "able"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.0,
+        "word": "to"
+      },
+      {
+        "startTime": 7.0,
+        "endTime": 7.8,
+        "word": "closed"
+      },
+      {
+        "startTime": 7.8,
+        "endTime": 8.1,
+        "word": "and"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.2,
+        "word": "there's"
+      },
+      {
+        "startTime": 8.2,
+        "endTime": 8.5,
+        "word": "also"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 9.0,
+        "word": "means"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.0,
+        "word": "that"
+      },
+      {
+        "startTime": 9.0,
+        "endTime": 9.2,
+        "word": "you"
+      },
+      {
+        "startTime": 9.2,
+        "endTime": 9.3,
+        "word": "would"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 9.4,
+        "word": "be"
+      },
+      {
+        "startTime": 9.4,
+        "endTime": 11.0,
+        "word": "putting"
+      },
+      {
+        "startTime": 11.0,
+        "endTime": 11.3,
+        "word": "more"
+      },
+      {
+        "startTime": 11.3,
+        "endTime": 11.7,
+        "word": "product."
+      }
+    ],
+    "length": 11.700000000000045
+  },
+  {
+    "id": 85,
+    "start": 713.2,
+    "end": 721.2,
+    "text": "But the other hand if this variability can be reduced as we see here.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 2.3,
+        "word": "But"
+      },
+      {
+        "startTime": 2.3,
+        "endTime": 2.6,
+        "word": "the"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.2,
+        "word": "other"
+      },
+      {
+        "startTime": 3.2,
+        "endTime": 3.5,
+        "word": "hand"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.7,
+        "word": "if"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.1,
+        "word": "this"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.5,
+        "word": "variability"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.9,
+        "word": "can"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.1,
+        "word": "be"
+      },
+      {
+        "startTime": 6.1,
+        "endTime": 6.7,
+        "word": "reduced"
+      },
+      {
+        "startTime": 6.7,
+        "endTime": 7.1,
+        "word": "as"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.2,
+        "word": "we"
+      },
+      {
+        "startTime": 7.2,
+        "endTime": 7.5,
+        "word": "see"
+      },
+      {
+        "startTime": 7.5,
+        "endTime": 8.0,
+        "word": "here."
+      }
+    ],
+    "length": 8.0
+  },
+  {
+    "id": 86,
+    "start": 721.2,
+    "end": 729.6,
+    "text": " Then we can have consistent.",
+    "words": [
+      {
+        "startTime": 3.9,
+        "endTime": 4.7,
+        "word": "Then"
+      },
+      {
+        "startTime": 4.7,
+        "endTime": 5.5,
+        "word": "we"
+      },
+      {
+        "startTime": 5.5,
+        "endTime": 6.0,
+        "word": "can"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 7.3,
+        "word": "have"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 8.4,
+        "word": "consistent."
+      }
+    ],
+    "length": 8.399999999999977
+  },
+  {
+    "id": 87,
+    "start": 729.6,
+    "end": 732.0,
+    "text": " a consistent",
+    "words": [
+      {
+        "startTime": 1.3,
+        "endTime": 1.6,
+        "word": "a"
+      },
+      {
+        "startTime": 1.6,
+        "endTime": 2.4,
+        "word": "consistent"
+      }
+    ],
+    "length": 2.3999999999999773
+  },
+  {
+    "id": 88,
+    "start": 732.0,
+    "end": 741.0,
+    "text": " a feeling of our boxes that is above this lower specification limit and doesn't cause boxes that are to fall.",
+    "words": [
+      {
+        "startTime": 1.6,
+        "endTime": 1.9,
+        "word": "a"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.5,
+        "word": "feeling"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.5,
+        "word": "of"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 2.6,
+        "word": "our"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.1,
+        "word": "boxes"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.5,
+        "word": "that"
+      },
+      {
+        "startTime": 3.5,
+        "endTime": 3.8,
+        "word": "is"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.5,
+        "word": "above"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.1,
+        "word": "this"
+      },
+      {
+        "startTime": 5.1,
+        "endTime": 5.4,
+        "word": "lower"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.7,
+        "word": "specification"
+      },
+      {
+        "startTime": 5.7,
+        "endTime": 6.5,
+        "word": "limit"
+      },
+      {
+        "startTime": 6.5,
+        "endTime": 7.1,
+        "word": "and"
+      },
+      {
+        "startTime": 7.1,
+        "endTime": 7.3,
+        "word": "doesn't"
+      },
+      {
+        "startTime": 7.3,
+        "endTime": 7.6,
+        "word": "cause"
+      },
+      {
+        "startTime": 7.6,
+        "endTime": 8.3,
+        "word": "boxes"
+      },
+      {
+        "startTime": 8.3,
+        "endTime": 8.4,
+        "word": "that"
+      },
+      {
+        "startTime": 8.4,
+        "endTime": 8.5,
+        "word": "are"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 8.6,
+        "word": "to"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 9.0,
+        "word": "fall."
+      }
+    ],
+    "length": 9.0
+  },
+  {
+    "id": 89,
+    "start": 741.0,
+    "end": 756.4,
+    "text": " Tudor savings for the manufacturer the customer will not receive any box with a fill weight that is less than the specification and in this particular case actually had this problem and there was a problem with one of the filling shoot.",
+    "words": [
+      {
+        "startTime": 0.8,
+        "endTime": 1.3,
+        "word": "Tudor"
+      },
+      {
+        "startTime": 1.3,
+        "endTime": 1.7,
+        "word": "savings"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.8,
+        "word": "for"
+      },
+      {
+        "startTime": 1.8,
+        "endTime": 1.9,
+        "word": "the"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.5,
+        "word": "manufacturer"
+      },
+      {
+        "startTime": 2.5,
+        "endTime": 3.3,
+        "word": "the"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.7,
+        "word": "customer"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 3.8,
+        "word": "will"
+      },
+      {
+        "startTime": 3.8,
+        "endTime": 4.1,
+        "word": "not"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.4,
+        "word": "receive"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 4.5,
+        "word": "any"
+      },
+      {
+        "startTime": 4.5,
+        "endTime": 5.0,
+        "word": "box"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.2,
+        "word": "with"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.2,
+        "word": "a"
+      },
+      {
+        "startTime": 5.2,
+        "endTime": 5.4,
+        "word": "fill"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 5.6,
+        "word": "weight"
+      },
+      {
+        "startTime": 5.6,
+        "endTime": 5.8,
+        "word": "that"
+      },
+      {
+        "startTime": 5.8,
+        "endTime": 5.9,
+        "word": "is"
+      },
+      {
+        "startTime": 5.9,
+        "endTime": 6.2,
+        "word": "less"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.2,
+        "word": "than"
+      },
+      {
+        "startTime": 6.2,
+        "endTime": 6.4,
+        "word": "the"
+      },
+      {
+        "startTime": 6.4,
+        "endTime": 6.9,
+        "word": "specification"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 8.1,
+        "word": "and"
+      },
+      {
+        "startTime": 8.1,
+        "endTime": 8.6,
+        "word": "in"
+      },
+      {
+        "startTime": 8.6,
+        "endTime": 8.7,
+        "word": "this"
+      },
+      {
+        "startTime": 8.7,
+        "endTime": 8.9,
+        "word": "particular"
+      },
+      {
+        "startTime": 8.9,
+        "endTime": 9.3,
+        "word": "case"
+      },
+      {
+        "startTime": 9.3,
+        "endTime": 10.9,
+        "word": "actually"
+      },
+      {
+        "startTime": 10.9,
+        "endTime": 11.1,
+        "word": "had"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 11.2,
+        "word": "this"
+      },
+      {
+        "startTime": 11.2,
+        "endTime": 11.5,
+        "word": "problem"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 12.7,
+        "word": "and"
+      },
+      {
+        "startTime": 12.7,
+        "endTime": 12.9,
+        "word": "there"
+      },
+      {
+        "startTime": 12.9,
+        "endTime": 13.1,
+        "word": "was"
+      },
+      {
+        "startTime": 13.1,
+        "endTime": 13.2,
+        "word": "a"
+      },
+      {
+        "startTime": 13.2,
+        "endTime": 13.7,
+        "word": "problem"
+      },
+      {
+        "startTime": 13.7,
+        "endTime": 14.2,
+        "word": "with"
+      },
+      {
+        "startTime": 14.2,
+        "endTime": 14.3,
+        "word": "one"
+      },
+      {
+        "startTime": 14.3,
+        "endTime": 14.4,
+        "word": "of"
+      },
+      {
+        "startTime": 14.4,
+        "endTime": 14.5,
+        "word": "the"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 14.9,
+        "word": "filling"
+      },
+      {
+        "startTime": 14.9,
+        "endTime": 15.4,
+        "word": "shoot."
+      }
+    ],
+    "length": 15.399999999999977
+  },
+  {
+    "id": 90,
+    "start": 756.4,
+    "end": 757.9,
+    "text": "There was a little bit of a leaky shutter.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.2,
+        "word": "There"
+      },
+      {
+        "startTime": 0.2,
+        "endTime": 0.3,
+        "word": "was"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.3,
+        "word": "a"
+      },
+      {
+        "startTime": 0.3,
+        "endTime": 0.5,
+        "word": "little"
+      },
+      {
+        "startTime": 0.5,
+        "endTime": 0.6,
+        "word": "bit"
+      },
+      {
+        "startTime": 0.6,
+        "endTime": 0.7,
+        "word": "of"
+      },
+      {
+        "startTime": 0.7,
+        "endTime": 0.8,
+        "word": "a"
+      },
+      {
+        "startTime": 0.8,
+        "endTime": 1.1,
+        "word": "leaky"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.5,
+        "word": "shutter."
+      }
+    ],
+    "length": 1.5
+  },
+  {
+    "id": 91,
+    "start": 757.9,
+    "end": 762.6,
+    "text": "And once that was repaired they were able to control the variability.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 0.9,
+        "word": "And"
+      },
+      {
+        "startTime": 0.9,
+        "endTime": 1.4,
+        "word": "once"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.4,
+        "word": "that"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.7,
+        "word": "was"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 2.1,
+        "word": "repaired"
+      },
+      {
+        "startTime": 2.1,
+        "endTime": 2.7,
+        "word": "they"
+      },
+      {
+        "startTime": 2.7,
+        "endTime": 2.9,
+        "word": "were"
+      },
+      {
+        "startTime": 2.9,
+        "endTime": 3.1,
+        "word": "able"
+      },
+      {
+        "startTime": 3.1,
+        "endTime": 3.3,
+        "word": "to"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 4.1,
+        "word": "control"
+      },
+      {
+        "startTime": 4.1,
+        "endTime": 4.3,
+        "word": "the"
+      },
+      {
+        "startTime": 4.3,
+        "endTime": 4.7,
+        "word": "variability."
+      }
+    ],
+    "length": 4.7000000000000455
+  },
+  {
+    "id": 92,
+    "start": 762.6,
+    "end": 779.8,
+    "text": "This is a simple example from industry to show how excessive variability causes poor quality and waste while smaller results results and not saving money by not showing the boxes too much.",
+    "words": [
+      {
+        "startTime": 0.0,
+        "endTime": 1.1,
+        "word": "This"
+      },
+      {
+        "startTime": 1.1,
+        "endTime": 1.2,
+        "word": "is"
+      },
+      {
+        "startTime": 1.2,
+        "endTime": 1.4,
+        "word": "a"
+      },
+      {
+        "startTime": 1.4,
+        "endTime": 1.7,
+        "word": "simple"
+      },
+      {
+        "startTime": 1.7,
+        "endTime": 1.9,
+        "word": "example"
+      },
+      {
+        "startTime": 1.9,
+        "endTime": 2.6,
+        "word": "from"
+      },
+      {
+        "startTime": 2.6,
+        "endTime": 3.3,
+        "word": "industry"
+      },
+      {
+        "startTime": 3.3,
+        "endTime": 3.7,
+        "word": "to"
+      },
+      {
+        "startTime": 3.7,
+        "endTime": 4.2,
+        "word": "show"
+      },
+      {
+        "startTime": 4.2,
+        "endTime": 4.4,
+        "word": "how"
+      },
+      {
+        "startTime": 4.4,
+        "endTime": 5.0,
+        "word": "excessive"
+      },
+      {
+        "startTime": 5.0,
+        "endTime": 5.4,
+        "word": "variability"
+      },
+      {
+        "startTime": 5.4,
+        "endTime": 6.0,
+        "word": "causes"
+      },
+      {
+        "startTime": 6.0,
+        "endTime": 6.3,
+        "word": "poor"
+      },
+      {
+        "startTime": 6.3,
+        "endTime": 6.8,
+        "word": "quality"
+      },
+      {
+        "startTime": 6.8,
+        "endTime": 6.9,
+        "word": "and"
+      },
+      {
+        "startTime": 6.9,
+        "endTime": 7.4,
+        "word": "waste"
+      },
+      {
+        "startTime": 7.4,
+        "endTime": 8.0,
+        "word": "while"
+      },
+      {
+        "startTime": 8.0,
+        "endTime": 8.5,
+        "word": "smaller"
+      },
+      {
+        "startTime": 8.5,
+        "endTime": 11.1,
+        "word": "results"
+      },
+      {
+        "startTime": 11.1,
+        "endTime": 14.5,
+        "word": "results"
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 14.6,
+        "word": "and"
+      },
+      {
+        "startTime": 14.6,
+        "endTime": 14.8,
+        "word": "not"
+      },
+      {
+        "startTime": 14.8,
+        "endTime": 15.5,
+        "word": "saving"
+      },
+      {
+        "startTime": 15.5,
+        "endTime": 15.6,
+        "word": "money"
+      },
+      {
+        "startTime": 15.6,
+        "endTime": 15.8,
+        "word": "by"
+      },
+      {
+        "startTime": 15.8,
+        "endTime": 16.0,
+        "word": "not"
+      },
+      {
+        "startTime": 16.0,
+        "endTime": 16.2,
+        "word": "showing"
+      },
+      {
+        "startTime": 16.2,
+        "endTime": 16.4,
+        "word": "the"
+      },
+      {
+        "startTime": 16.4,
+        "endTime": 16.8,
+        "word": "boxes"
+      },
+      {
+        "startTime": 16.8,
+        "endTime": 16.9,
+        "word": "too"
+      },
+      {
+        "startTime": 16.9,
+        "endTime": 17.2,
+        "word": "much."
+      }
+    ],
+    "length": 17.199999999999932
+  }
+]

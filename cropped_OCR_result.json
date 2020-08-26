@@ -1,0 +1,739 @@
+[
+  {
+    "start": 90.04, 
+    "end": 110.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Statistics Tor Quality", 
+        "location": [
+          77, 
+          27, 
+          317, 
+          31
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " WVhy statistics in quality 4", 
+        "location": [
+          76, 
+          95, 
+          227, 
+          20
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          76, 
+          154, 
+          311, 
+          20
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " p Vieans Tor describing populations with variability]", 
+        "location": [
+          77, 
+          214, 
+          459, 
+          20
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "   population quality trom samples!", 
+        "location": [
+          77, 
+          273, 
+          546, 
+          20
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          746, 
+          382, 
+          12, 
+          22
+        ], 
+        "block_num": 5
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 130.04, 
+    "end": 150.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]    ajor statistical methods used in quali ngineering Control charts:", 
+        "location": [
+          77, 
+          0, 
+          633, 
+          111
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " (sed Tor Comrolling Processes so they produce Products Oi iniform quality", 
+        "location": [
+          152, 
+          132, 
+          547, 
+          45
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "   impling plans: used for determining acceptability of lots based on sample: taken from them", 
+        "location": [
+          114, 
+          193, 
+          586, 
+          78
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          199, 
+          6, 
+          6
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          115, 
+          292, 
+          209, 
+          20
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          298, 
+          6, 
+          5
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " parameter levels to obtain desired levels of quality   haracteristics", 
+        "location": [
+          150, 
+          329, 
+          494, 
+          75
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "", 
+        "location": [
+          744, 
+          380, 
+          14, 
+          24
+        ], 
+        "block_num": 7
+      }
+    ], 
+    "shot_id": 6
+  }, 
+  {
+    "start": 170.04, 
+    "end": 190.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]    lajor statistical methods used in quali ngineering (contd.) Regression and Correlation Analysis:", 
+        "location": [
+          77, 
+          0, 
+          633, 
+          115
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          115, 
+          132, 
+          586, 
+          139
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          199, 
+          6, 
+          6
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "   olerancing: used for determining allowable variability in product an process variables so the products can be produced economically while meeting customer needs. ", 
+        "location": [
+          113, 
+          292, 
+          554, 
+          112
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          298, 
+          6, 
+          5
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          743, 
+          380, 
+          15, 
+          24
+        ], 
+        "block_num": 5
+      }
+    ], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 210.04, 
+    "end": 230.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  punerio\u201d methods for x opulations", 
+        "location": [
+          78, 
+          0, 
+          530, 
+          78
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " ete ation. Collection of all items that are of interest in a oar", 
+        "location": [
+          105, 
+          97, 
+          568, 
+          46
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          103, 
+          6, 
+          5
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "   : SUBSet Chosen trom the population. \u2018andom Sample: each item has equal chance of being includ: Population Sample Gp ", 
+        "location": [
+          105, 
+          165, 
+          584, 
+          239
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          171, 
+          6, 
+          5
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          209, 
+          6, 
+          6
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          745, 
+          381, 
+          13, 
+          23
+        ], 
+        "block_num": 6
+      }
+    ], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 330.04, 
+    "end": 350.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]    umerical methods for describin opulations \u2018wo types of data:", 
+        "location": [
+          77, 
+          0, 
+          531, 
+          117
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " jeasurement Gata: measurements Of Characteristics (/eng fidth, strengtt   ", 
+        "location": [
+          105, 
+          138, 
+          554, 
+          50
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          143, 
+          6, 
+          6
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          166, 
+          208, 
+          174, 
+          17
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          137, 
+          213, 
+          6, 
+          6
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Attribute data:   inspection data (sail, color, taste, Tit...)", 
+        "location": [
+          104, 
+          248, 
+          507, 
+          21
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          632, 
+          253, 
+          3, 
+          3
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          254, 
+          6, 
+          6
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          166, 
+          289, 
+          160, 
+          85
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": "", 
+        "location": [
+          137, 
+          295, 
+          6, 
+          6
+        ], 
+        "block_num": 9
+      }
+    ], 
+    "shot_id": 16
+  }, 
+  {
+    "start": 390.04, 
+    "end": 410.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Rumer methods for soba opulations", 
+        "location": [
+          78, 
+          0, 
+          530, 
+          78
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          510, 
+          114, 
+          219, 
+          290
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " je mean represents the center point \u2018ound which the data (population) is ", 
+        "location": [
+          104, 
+          116, 
+          372, 
+          75
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          121, 
+          6, 
+          6
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          104, 
+          223, 
+          376, 
+          78
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          228, 
+          6, 
+          6
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "   ie Square O} \u2018he variance (o\u00b0   leviation |:", 
+        "location": [
+          104, 
+          328, 
+          357, 
+          50
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          333, 
+          6, 
+          6
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": "", 
+        "location": [
+          749, 
+          387, 
+          9, 
+          17
+        ], 
+        "block_num": 8
+      }
+    ], 
+    "shot_id": 19
+  }, 
+  {
+    "start": 470.04, 
+    "end": 490.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]    umerical methods for describing opulations hen a sample is taken, where is the sample size, then the sampl iverage and sample standard deviation can be calculated: ", 
+        "location": [
+          76, 
+          0, 
+          630, 
+          140
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          314, 
+          167, 
+          211, 
+          72
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "                   Cs |         ", 
+        "location": [
+          547, 
+          167, 
+          179, 
+          237
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " bample Average, X-ba/]", 
+        "location": [
+          77, 
+          208, 
+          216, 
+          21
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          77, 
+          267, 
+          285, 
+          20
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          285, 
+          313, 
+          171, 
+          67
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          739, 
+          372, 
+          19, 
+          32
+        ], 
+        "block_num": 6
+      }
+    ], 
+    "shot_id": 23
+  }, 
+  {
+    "start": 510.04, 
+    "end": 530.04, 
+    "ocr_result": [
+      {
+        "text": "   Population Parameters s. Sample Statistics Population jeand care population parameters   X-barand Sare sample statistic:     ", 
+        "location": [
+          77, 
+          0, 
+          681, 
+          404
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 25
+  }, 
+  {
+    "start": 570.04, 
+    "end": 590.04, 
+    "ocr_result": [
+      {
+        "text": " Quality vs. Variability Who is the better marksman?", 
+        "location": [
+          77, 
+          27, 
+          608, 
+          310
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          732, 
+          383, 
+          26, 
+          65
+        ], 
+        "block_num": 1
+      }
+    ], 
+    "shot_id": 28
+  }, 
+  {
+    "start": 630.04, 
+    "end": 650.04, 
+    "ocr_result": [
+      {
+        "text": " Quality vs. Variability y FN a _\u2019/ Who is the better marksman? To reduce defects we need to reduce variability and target the mean It is typically easier to change the mean than it is to reduce the Variation", 
+        "location": [
+          63, 
+          27, 
+          630, 
+          421
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          36, 
+          350, 
+          6, 
+          6
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          727, 
+          378, 
+          31, 
+          70
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          36, 
+          409, 
+          7, 
+          7
+        ], 
+        "block_num": 3
+      }
+    ], 
+    "shot_id": 31
+  }, 
+  {
+    "start": 670.04, 
+    "end": 690.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Wuality vs. Variability", 
+        "location": [
+          77, 
+          27, 
+          325, 
+          31
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Excessive variability in a population Causes poor quality ang acta", 
+        "location": [
+          77, 
+          95, 
+          550, 
+          46
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " FAUL weicentTs         ", 
+        "location": [
+          71, 
+          137, 
+          336, 
+          281
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          403, 
+          193, 
+          311, 
+          225
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          125, 
+          427, 
+          17, 
+          21
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          454, 
+          427, 
+          18, 
+          21
+        ], 
+        "block_num": 5
+      }
+    ], 
+    "shot_id": 33
+  }
+]

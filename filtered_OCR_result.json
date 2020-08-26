@@ -1,0 +1,3619 @@
+[
+  {
+    "start": 90.04, 
+    "end": 110.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          591, 
+          112, 
+          661, 
+          625
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1282, 
+          132, 
+          386, 
+          146
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " School \u00ab", 
+        "location": [
+          1635, 
+          132, 
+          566, 
+          146
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2151, 
+          132, 
+          181, 
+          146
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " \u2018Management", 
+        "location": [
+          2295, 
+          131, 
+          1033, 
+          169
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          8694, 
+          135, 
+          1070, 
+          566
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " Production a", 
+        "location": [
+          1272, 
+          322, 
+          866, 
+          158
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          2056, 
+          322, 
+          302, 
+          157
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " Supply {", 
+        "location": [
+          2335, 
+          321, 
+          553, 
+          181
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          3235, 
+          321, 
+          1046, 
+          181
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " Chain |", 
+        "location": [
+          2829, 
+          323, 
+          469, 
+          156
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1294, 
+          513, 
+          338, 
+          134
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1597, 
+          513, 
+          505, 
+          134
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " Grunow", 
+        "location": [
+          2052, 
+          513, 
+          637, 
+          134
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": "", 
+        "location": [
+          6450, 
+          513, 
+          925, 
+          134
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7253, 
+          513, 
+          853, 
+          134
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7998, 
+          513, 
+          733, 
+          134
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": "", 
+        "location": [
+          0, 
+          707, 
+          11438, 
+          26
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " Statistics f", 
+        "location": [
+          904, 
+          1122, 
+          2269, 
+          398
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2969, 
+          1122, 
+          710, 
+          398
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3683, 
+          1121, 
+          374, 
+          421
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3984, 
+          1129, 
+          1309, 
+          470
+        ], 
+        "block_num": 21
+      }, 
+      {
+        "text": " quality?", 
+        "location": [
+          2962, 
+          2016, 
+          1106, 
+          302
+        ], 
+        "block_num": 22
+      }, 
+      {
+        "text": " Why", 
+        "location": [
+          961, 
+          2026, 
+          649, 
+          289
+        ], 
+        "block_num": 23
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1545, 
+          2029, 
+          1274, 
+          230
+        ], 
+        "block_num": 24
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2718, 
+          2029, 
+          242, 
+          230
+        ], 
+        "block_num": 25
+      }, 
+      {
+        "text": " The", 
+        "location": [
+          955, 
+          2788, 
+          553, 
+          241
+        ], 
+        "block_num": 26
+      }, 
+      {
+        "text": " science \u00a2", 
+        "location": [
+          1473, 
+          2788, 
+          1093, 
+          242
+        ], 
+        "block_num": 27
+      }, 
+      {
+        "text": " oT", 
+        "location": [
+          2486, 
+          2788, 
+          301, 
+          241
+        ], 
+        "block_num": 28
+      }, 
+      {
+        "text": " statistics c", 
+        "location": [
+          2746, 
+          2788, 
+          1273, 
+          241
+        ], 
+        "block_num": 29
+      }, 
+      {
+        "text": " provides:", 
+        "location": [
+          3884, 
+          2786, 
+          1310, 
+          301
+        ], 
+        "block_num": 30
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1139, 
+          3558, 
+          937, 
+          253
+        ], 
+        "block_num": 31
+      }, 
+      {
+        "text": " for", 
+        "location": [
+          2012, 
+          3558, 
+          397, 
+          242
+        ], 
+        "block_num": 32
+      }, 
+      {
+        "text": " describing c", 
+        "location": [
+          2356, 
+          3556, 
+          1501, 
+          302
+        ], 
+        "block_num": 33
+      }, 
+      {
+        "text": " populations v", 
+        "location": [
+          3689, 
+          3555, 
+          1670, 
+          314
+        ], 
+        "block_num": 34
+      }, 
+      {
+        "text": " with", 
+        "location": [
+          5194, 
+          3558, 
+          590, 
+          242
+        ], 
+        "block_num": 35
+      }, 
+      {
+        "text": " Variability.", 
+        "location": [
+          5721, 
+          3556, 
+          1370, 
+          301
+        ], 
+        "block_num": 36
+      }, 
+      {
+        "text": "", 
+        "location": [
+          994, 
+          3635, 
+          98, 
+          86
+        ], 
+        "block_num": 37
+      }, 
+      {
+        "text": " PP ee Pe OF Cee et ee ee ee Pee a eS eee \u2014_ FRFERE F&F BF he F eee * Methods for \u201cestimating\u201d population quality from samples. \u00a92012 from \"A First Course mm Quality Engimeering: Integrating Statistical and Management Methods of Quality\" by K.S. Krshnamoorthi. Reproduced by permission of Taylor and Francis Group, LLC, a division of Informa plc. Holly Ott ", 
+        "location": [
+          0, 
+          3723, 
+          14857, 
+          3973
+        ], 
+        "block_num": 38
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 130.04, 
+    "end": 150.04, 
+    "ocr_result": [
+      {
+        "text": " TUM School of Management Production and Supply Chain Management TUT] Prof Martin Grunow Technische Universitat Minchen Major statistical methods used in quality engineering \u00a2 Control charts: used for controlling processes so they produce products of uniform quality \u00a2 Sampling plans: used for determining acceptability of lots based on samples taken from them \u00a2 Designed experiments: used for determining the best combination of process parameter levels to obtain desired levels of quality Characteristics \u00a92012 from \u201cA First Course in Quality Engineering: Integrating Statistical and Management Methods of Quality\" by K.S. Knshnamoorthi. Reproduced by permission of Taylor and Francis Group, LLC, a division of Informa plc. Holly Ott ", 
+        "location": [
+          0, 
+          0, 
+          14857, 
+          8640
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 6
+  }, 
+  {
+    "start": 170.04, 
+    "end": 190.04, 
+    "ocr_result": [
+      {
+        "text": " TUM School of Management Production and Supply Chain Management TUT] Prof Martin Grunow Technische Universitat Munchen Major statistical methods used in quality engineering (contd.) \u00a2 Regression and Correlation Analysis: used for determining which cause variables affect, to what extent, Which quality characteristics \u00a2 Reliability Engineering: used in understanding the factors that affect the life of parts and assembiies in order to increase their life *  Tolerancing: used for determining allowable variability in product and process variables so the products can be produced economically while meeting customer needs. \u00a92012 from \"A First Course in Quality Engineering: Integrating Statistical and Management Methods of Quality\" by K.S. Knshnamoorthi. Reproduced by permission of Taylor and Francis Group, LLC, a division of Informa plc. Holly Ott ", 
+        "location": [
+          0, 
+          0, 
+          14857, 
+          8640
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 210.04, 
+    "end": 230.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          591, 
+          112, 
+          661, 
+          625
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1282, 
+          132, 
+          386, 
+          145
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " School \u00ab", 
+        "location": [
+          1645, 
+          132, 
+          554, 
+          146
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2152, 
+          132, 
+          180, 
+          145
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " \u2018Management", 
+        "location": [
+          2295, 
+          131, 
+          1033, 
+          170
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          8694, 
+          134, 
+          1070, 
+          577
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " Production 4", 
+        "location": [
+          1272, 
+          322, 
+          866, 
+          158
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          2045, 
+          322, 
+          313, 
+          158
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " Supply \u00a2", 
+        "location": [
+          2335, 
+          321, 
+          554, 
+          181
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " Chain |", 
+        "location": [
+          2829, 
+          322, 
+          470, 
+          157
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          3235, 
+          321, 
+          1046, 
+          181
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " Prot", 
+        "location": [
+          1294, 
+          502, 
+          338, 
+          146
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Munchen", 
+        "location": [
+          7998, 
+          502, 
+          734, 
+          146
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1597, 
+          513, 
+          506, 
+          134
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " Grunow", 
+        "location": [
+          2052, 
+          513, 
+          625, 
+          134
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": "", 
+        "location": [
+          6450, 
+          513, 
+          926, 
+          134
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7253, 
+          513, 
+          854, 
+          134
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": "", 
+        "location": [
+          0, 
+          707, 
+          11438, 
+          26
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " iumerical tr", 
+        "location": [
+          1242, 
+          872, 
+          2078, 
+          397
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " ods", 
+        "location": [
+          4202, 
+          872, 
+          878, 
+          397
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " for", 
+        "location": [
+          5049, 
+          872, 
+          710, 
+          398
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": " descrik", 
+        "location": [
+          5716, 
+          872, 
+          1490, 
+          398
+        ], 
+        "block_num": 21
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1004, 
+          883, 
+          337, 
+          374
+        ], 
+        "block_num": 22
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3158, 
+          882, 
+          1213, 
+          385
+        ], 
+        "block_num": 23
+      }, 
+      {
+        "text": " DI", 
+        "location": [
+          7031, 
+          882, 
+          410, 
+          385
+        ], 
+        "block_num": 24
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7397, 
+          956, 
+          278, 
+          301
+        ], 
+        "block_num": 25
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7657, 
+          952, 
+          278, 
+          397
+        ], 
+        "block_num": 26
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1971, 
+          1392, 
+          1610, 
+          397
+        ], 
+        "block_num": 27
+      }, 
+      {
+        "text": " popul", 
+        "location": [
+          958, 
+          1462, 
+          1214, 
+          386
+        ], 
+        "block_num": 28
+      }, 
+      {
+        "text": " of", 
+        "location": [
+          3996, 
+          2038, 
+          302, 
+          253
+        ], 
+        "block_num": 29
+      }, 
+      {
+        "text": " Population: c", 
+        "location": [
+          1291, 
+          2046, 
+          1609, 
+          302
+        ], 
+        "block_num": 30
+      }, 
+      {
+        "text": " collection c", 
+        "location": [
+          2731, 
+          2048, 
+          1370, 
+          242
+        ], 
+        "block_num": 31
+      }, 
+      {
+        "text": " all", 
+        "location": [
+          4296, 
+          2048, 
+          302, 
+          241
+        ], 
+        "block_num": 32
+      }, 
+      {
+        "text": " items 1", 
+        "location": [
+          4615, 
+          2048, 
+          794, 
+          241
+        ], 
+        "block_num": 33
+      }, 
+      {
+        "text": " that", 
+        "location": [
+          5335, 
+          2048, 
+          565, 
+          242
+        ], 
+        "block_num": 34
+      }, 
+      {
+        "text": " of", 
+        "location": [
+          6326, 
+          2048, 
+          302, 
+          241
+        ], 
+        "block_num": 35
+      }, 
+      {
+        "text": " interest |", 
+        "location": [
+          6614, 
+          2048, 
+          1058, 
+          242
+        ], 
+        "block_num": 36
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7609, 
+          2048, 
+          230, 
+          241
+        ], 
+        "block_num": 37
+      }, 
+      {
+        "text": " given", 
+        "location": [
+          8077, 
+          2046, 
+          758, 
+          301
+        ], 
+        "block_num": 38
+      }, 
+      {
+        "text": " are", 
+        "location": [
+          5879, 
+          2090, 
+          457, 
+          194
+        ], 
+        "block_num": 39
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7881, 
+          2101, 
+          181, 
+          182
+        ], 
+        "block_num": 40
+      }, 
+      {
+        "text": "", 
+        "location": [
+          994, 
+          2114, 
+          110, 
+          97
+        ], 
+        "block_num": 41
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1308, 
+          2439, 
+          1201, 
+          230
+        ], 
+        "block_num": 42
+      }, 
+      {
+        "text": " Sample: s", 
+        "location": [
+          1310, 
+          2925, 
+          1153, 
+          314
+        ], 
+        "block_num": 43
+      }, 
+      {
+        "text": " from.", 
+        "location": [
+          4191, 
+          2928, 
+          650, 
+          254
+        ], 
+        "block_num": 44
+      }, 
+      {
+        "text": " subset \u00a2", 
+        "location": [
+          2357, 
+          2938, 
+          985, 
+          253
+        ], 
+        "block_num": 45
+      }, 
+      {
+        "text": " chosen 1", 
+        "location": [
+          3235, 
+          2938, 
+          1046, 
+          242
+        ], 
+        "block_num": 46
+      }, 
+      {
+        "text": " the", 
+        "location": [
+          4819, 
+          2938, 
+          458, 
+          242
+        ], 
+        "block_num": 47
+      }, 
+      {
+        "text": " population.", 
+        "location": [
+          5232, 
+          2936, 
+          1586, 
+          301
+        ], 
+        "block_num": 48
+      }, 
+      {
+        "text": "", 
+        "location": [
+          994, 
+          3005, 
+          97, 
+          85
+        ], 
+        "block_num": 49
+      }, 
+      {
+        "text": " Sample: \u00a2", 
+        "location": [
+          2400, 
+          3425, 
+          1154, 
+          313
+        ], 
+        "block_num": 50
+      }, 
+      {
+        "text": " ot", 
+        "location": [
+          6886, 
+          3428, 
+          301, 
+          242
+        ], 
+        "block_num": 51
+      }, 
+      {
+        "text": " Deing |", 
+        "location": [
+          7186, 
+          3425, 
+          781, 
+          313
+        ], 
+        "block_num": 52
+      }, 
+      {
+        "text": " chance <", 
+        "location": [
+          5914, 
+          3429, 
+          1058, 
+          253
+        ], 
+        "block_num": 53
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1308, 
+          3439, 
+          1214, 
+          230
+        ], 
+        "block_num": 54
+      }, 
+      {
+        "text": " each", 
+        "location": [
+          3469, 
+          3439, 
+          697, 
+          229
+        ], 
+        "block_num": 55
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4133, 
+          3439, 
+          602, 
+          230
+        ], 
+        "block_num": 56
+      }, 
+      {
+        "text": " has", 
+        "location": [
+          4717, 
+          3439, 
+          517, 
+          229
+        ], 
+        "block_num": 57
+      }, 
+      {
+        "text": " equal", 
+        "location": [
+          5206, 
+          3436, 
+          769, 
+          301
+        ], 
+        "block_num": 58
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7908, 
+          3439, 
+          1201, 
+          230
+        ], 
+        "block_num": 59
+      }, 
+      {
+        "text": "", 
+        "location": [
+          994, 
+          3505, 
+          98, 
+          85
+        ], 
+        "block_num": 60
+      }, 
+      {
+        "text": " Population Sample         su \u00a92012 from \"A First Course in Quality Engmeering: Integrating Statistical and Management Methods of Quality\" by K.S. Knshnamoorthi. Reproduced by permission of Taylor and Francis Group, LLC, a division of Informa plc. Holly Ott ", 
+        "location": [
+          0, 
+          3754, 
+          14857, 
+          3937
+        ], 
+        "block_num": 61
+      }
+    ], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 330.04, 
+    "end": 350.04, 
+    "ocr_result": [
+      {
+        "text": " Numerical methods for describing populations Two types of data: * Measurement data: measurements of characteristics (/ength, Width, strength...) \u00a2 \"Quantitative\" data \u00a2 Attribute data: inspection data (sma//, co/or, taste, fit...) \u00a2 \"Qualitative\" data \u00a2 Nominal \u00a2 Ordinal \u00a92012 from \"A First Course in Quality Engmeering: Integrating Statistical and Management Methods of Quality\" by K.S. Knshnamoorthi. Reproduced by permission of Taylor and Francis Group, LLC, a division of Informa plc. Holly Ott 15 ", 
+        "location": [
+          0, 
+          0, 
+          14857, 
+          8640
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 16
+  }, 
+  {
+    "start": 390.04, 
+    "end": 410.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          591, 
+          112, 
+          661, 
+          625
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1282, 
+          132, 
+          386, 
+          157
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " School \u00ab", 
+        "location": [
+          1635, 
+          132, 
+          566, 
+          145
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " oT", 
+        "location": [
+          2151, 
+          132, 
+          182, 
+          145
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " \u2018Management", 
+        "location": [
+          2295, 
+          131, 
+          1033, 
+          169
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          8693, 
+          135, 
+          1081, 
+          566
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " Supply \u00a2", 
+        "location": [
+          2335, 
+          321, 
+          554, 
+          181
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " Production 4", 
+        "location": [
+          1272, 
+          332, 
+          866, 
+          146
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          2056, 
+          332, 
+          301, 
+          145
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " Chain |", 
+        "location": [
+          2829, 
+          332, 
+          470, 
+          146
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          3234, 
+          331, 
+          1057, 
+          169
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " Martin |", 
+        "location": [
+          1608, 
+          492, 
+          493, 
+          158
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Prot |", 
+        "location": [
+          1285, 
+          502, 
+          349, 
+          146
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " Universitat fh", 
+        "location": [
+          7253, 
+          502, 
+          854, 
+          146
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " Munchen", 
+        "location": [
+          8008, 
+          502, 
+          722, 
+          146
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": " Grunow", 
+        "location": [
+          2052, 
+          513, 
+          637, 
+          134
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": "", 
+        "location": [
+          6450, 
+          513, 
+          926, 
+          134
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": "", 
+        "location": [
+          0, 
+          707, 
+          11438, 
+          26
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          5049, 
+          872, 
+          710, 
+          398
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " descrik", 
+        "location": [
+          5716, 
+          872, 
+          1490, 
+          398
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          981, 
+          882, 
+          650, 
+          385
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": " merical t", 
+        "location": [
+          1504, 
+          882, 
+          1778, 
+          385
+        ], 
+        "block_num": 21
+      }, 
+      {
+        "text": " methods f", 
+        "location": [
+          3120, 
+          882, 
+          2114, 
+          397
+        ], 
+        "block_num": 22
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          7019, 
+          882, 
+          710, 
+          385
+        ], 
+        "block_num": 23
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7657, 
+          953, 
+          278, 
+          396
+        ], 
+        "block_num": 24
+      }, 
+      {
+        "text": " lations", 
+        "location": [
+          1982, 
+          1392, 
+          1597, 
+          386
+        ], 
+        "block_num": 25
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          958, 
+          1473, 
+          1213, 
+          373
+        ], 
+        "block_num": 26
+      }, 
+      {
+        "text": " Population", 
+        "location": [
+          7226, 
+          2256, 
+          1501, 
+          302
+        ], 
+        "block_num": 27
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2605, 
+          2285, 
+          326, 
+          313
+        ], 
+        "block_num": 28
+      }, 
+      {
+        "text": " The", 
+        "location": [
+          1315, 
+          2298, 
+          553, 
+          242
+        ], 
+        "block_num": 29
+      }, 
+      {
+        "text": " represents t", 
+        "location": [
+          2916, 
+          2296, 
+          1502, 
+          301
+        ], 
+        "block_num": 30
+      }, 
+      {
+        "text": " the", 
+        "location": [
+          4269, 
+          2298, 
+          469, 
+          242
+        ], 
+        "block_num": 31
+      }, 
+      {
+        "text": " center |", 
+        "location": [
+          4720, 
+          2298, 
+          913, 
+          242
+        ], 
+        "block_num": 32
+      }, 
+      {
+        "text": " point", 
+        "location": [
+          5558, 
+          2296, 
+          733, 
+          301
+        ], 
+        "block_num": 33
+      }, 
+      {
+        "text": " an", 
+        "location": [
+          1845, 
+          2340, 
+          793, 
+          206
+        ], 
+        "block_num": 34
+      }, 
+      {
+        "text": "", 
+        "location": [
+          994, 
+          2365, 
+          97, 
+          85
+        ], 
+        "block_num": 35
+      }, 
+      {
+        "text": " around '", 
+        "location": [
+          1317, 
+          2678, 
+          998, 
+          253
+        ], 
+        "block_num": 36
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2223, 
+          2678, 
+          841, 
+          242
+        ], 
+        "block_num": 37
+      }, 
+      {
+        "text": " the", 
+        "location": [
+          3019, 
+          2678, 
+          458, 
+          242
+        ], 
+        "block_num": 38
+      }, 
+      {
+        "text": " (population) is", 
+        "location": [
+          4029, 
+          2675, 
+          1669, 
+          314
+        ], 
+        "block_num": 39
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5569, 
+          2679, 
+          217, 
+          241
+        ], 
+        "block_num": 40
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3462, 
+          2689, 
+          638, 
+          229
+        ], 
+        "block_num": 41
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          6475, 
+          2536, 
+          3433, 
+          3890
+        ], 
+        "block_num": 42
+      }, 
+      {
+        "text": " distributed", 
+        "location": [
+          1295, 
+          3047, 
+          1526, 
+          266
+        ], 
+        "block_num": 43
+      }, 
+      {
+        "text": " standard c\u00a2", 
+        "location": [
+          1826, 
+          3668, 
+          1262, 
+          242
+        ], 
+        "block_num": 44
+      }, 
+      {
+        "text": " (9)", 
+        "location": [
+          4155, 
+          3665, 
+          325, 
+          314
+        ], 
+        "block_num": 45
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1315, 
+          3679, 
+          554, 
+          229
+        ], 
+        "block_num": 46
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2945, 
+          3679, 
+          1309, 
+          230
+        ], 
+        "block_num": 47
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5829, 
+          3679, 
+          469, 
+          229
+        ], 
+        "block_num": 48
+      }, 
+      {
+        "text": " represents t", 
+        "location": [
+          4465, 
+          3686, 
+          1514, 
+          289
+        ], 
+        "block_num": 49
+      }, 
+      {
+        "text": "", 
+        "location": [
+          994, 
+          3745, 
+          97, 
+          85
+        ], 
+        "block_num": 50
+      }, 
+      {
+        "text": " \u2014_ Se Eee EO ee ee ee ee OO ee ee Cd 1s : = el ee ee ee amount of variability (dispersion) in the data about the center point * The square of the standard deviation is the variance (0\u00b0) \u00a92012 from \"A First Course in Quality Engineering: Integrating Statistical and Management Methods of Quality\u201d by K.S. Knshnamoorth. Reproduced by permission of Taylor and Francis Group, LLC, a division of Informa plc. Holly Ott ", 
+        "location": [
+          0, 
+          3838, 
+          14857, 
+          3841
+        ], 
+        "block_num": 51
+      }
+    ], 
+    "shot_id": 19
+  }, 
+  {
+    "start": 470.04, 
+    "end": 490.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          591, 
+          112, 
+          661, 
+          625
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1282, 
+          132, 
+          398, 
+          145
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " School \u00ab", 
+        "location": [
+          1645, 
+          132, 
+          554, 
+          146
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2151, 
+          132, 
+          182, 
+          145
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          2295, 
+          131, 
+          1034, 
+          169
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          8683, 
+          135, 
+          1082, 
+          566
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " Production a", 
+        "location": [
+          1272, 
+          332, 
+          866, 
+          146
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          2056, 
+          332, 
+          301, 
+          146
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " Supply \u00a2", 
+        "location": [
+          2335, 
+          331, 
+          554, 
+          169
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " Chain |", 
+        "location": [
+          2829, 
+          332, 
+          470, 
+          145
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          3235, 
+          331, 
+          1046, 
+          169
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1272, 
+          502, 
+          878, 
+          146
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Grunow", 
+        "location": [
+          2052, 
+          502, 
+          625, 
+          146
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " Technische L", 
+        "location": [
+          6450, 
+          502, 
+          925, 
+          146
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " Universitat f", 
+        "location": [
+          7253, 
+          502, 
+          853, 
+          146
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": " Munchen", 
+        "location": [
+          7998, 
+          502, 
+          734, 
+          146
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": "", 
+        "location": [
+          0, 
+          707, 
+          11437, 
+          26
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          5766, 
+          872, 
+          301, 
+          397
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          994, 
+          883, 
+          350, 
+          374
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " merical", 
+        "location": [
+          1510, 
+          882, 
+          1646, 
+          385
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3148, 
+          882, 
+          1214, 
+          386
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": " ods", 
+        "location": [
+          4202, 
+          882, 
+          878, 
+          386
+        ], 
+        "block_num": 21
+      }, 
+      {
+        "text": " for", 
+        "location": [
+          5049, 
+          882, 
+          710, 
+          385
+        ], 
+        "block_num": 22
+      }, 
+      {
+        "text": " escrit", 
+        "location": [
+          6000, 
+          882, 
+          1166, 
+          385
+        ], 
+        "block_num": 23
+      }, 
+      {
+        "text": " bing", 
+        "location": [
+          7006, 
+          878, 
+          1022, 
+          481
+        ], 
+        "block_num": 24
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1317, 
+          966, 
+          266, 
+          289
+        ], 
+        "block_num": 25
+      }, 
+      {
+        "text": " populations", 
+        "location": [
+          890, 
+          1389, 
+          2846, 
+          470
+        ], 
+        "block_num": 26
+      }, 
+      {
+        "text": " When.", 
+        "location": [
+          954, 
+          2018, 
+          818, 
+          242
+        ], 
+        "block_num": 27
+      }, 
+      {
+        "text": " Sample |", 
+        "location": [
+          1914, 
+          2016, 
+          1057, 
+          301
+        ], 
+        "block_num": 28
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2909, 
+          2018, 
+          230, 
+          242
+        ], 
+        "block_num": 29
+      }, 
+      {
+        "text": " taken,", 
+        "location": [
+          3132, 
+          2016, 
+          866, 
+          289
+        ], 
+        "block_num": 30
+      }, 
+      {
+        "text": " where ,", 
+        "location": [
+          3942, 
+          2018, 
+          878, 
+          242
+        ], 
+        "block_num": 31
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4990, 
+          2018, 
+          229, 
+          253
+        ], 
+        "block_num": 32
+      }, 
+      {
+        "text": " the", 
+        "location": [
+          5239, 
+          2018, 
+          457, 
+          241
+        ], 
+        "block_num": 33
+      }, 
+      {
+        "text": " sample s", 
+        "location": [
+          5675, 
+          2016, 
+          1046, 
+          301
+        ], 
+        "block_num": 34
+      }, 
+      {
+        "text": " size.", 
+        "location": [
+          6622, 
+          2016, 
+          637, 
+          289
+        ], 
+        "block_num": 35
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          7232, 
+          2018, 
+          626, 
+          242
+        ], 
+        "block_num": 36
+      }, 
+      {
+        "text": " the", 
+        "location": [
+          7829, 
+          2018, 
+          469, 
+          253
+        ], 
+        "block_num": 37
+      }, 
+      {
+        "text": " Sample", 
+        "location": [
+          8265, 
+          2016, 
+          1046, 
+          301
+        ], 
+        "block_num": 38
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1751, 
+          2071, 
+          182, 
+          182
+        ], 
+        "block_num": 39
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4780, 
+          2070, 
+          194, 
+          194
+        ], 
+        "block_num": 40
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          1986, 
+          2338, 
+          542, 
+          253
+        ], 
+        "block_num": 41
+      }, 
+      {
+        "text": " Sample s", 
+        "location": [
+          2495, 
+          2336, 
+          1045, 
+          302
+        ], 
+        "block_num": 42
+      }, 
+      {
+        "text": " standard \u00a2", 
+        "location": [
+          3426, 
+          2338, 
+          1261, 
+          253
+        ], 
+        "block_num": 43
+      }, 
+      {
+        "text": " deviation \u00ab", 
+        "location": [
+          4544, 
+          2338, 
+          1298, 
+          242
+        ], 
+        "block_num": 44
+      }, 
+      {
+        "text": " be", 
+        "location": [
+          6263, 
+          2338, 
+          361, 
+          241
+        ], 
+        "block_num": 45
+      }, 
+      {
+        "text": " calculated:", 
+        "location": [
+          6584, 
+          2338, 
+          1550, 
+          242
+        ], 
+        "block_num": 46
+      }, 
+      {
+        "text": " AVETAQE <", 
+        "location": [
+          951, 
+          2388, 
+          1142, 
+          241
+        ], 
+        "block_num": 47
+      }, 
+      {
+        "text": " Cal)", 
+        "location": [
+          5736, 
+          2391, 
+          529, 
+          182
+        ], 
+        "block_num": 48
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4662, 
+          2938, 
+          397, 
+          481
+        ], 
+        "block_num": 49
+      }, 
+      {
+        "text": " Sample", 
+        "location": [
+          7516, 
+          2947, 
+          1009, 
+          312
+        ], 
+        "block_num": 50
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5025, 
+          3018, 
+          325, 
+          254
+        ], 
+        "block_num": 51
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5295, 
+          3182, 
+          74, 
+          157
+        ], 
+        "block_num": 52
+      }, 
+      {
+        "text": " \\ET", 
+        "location": [
+          6451, 
+          3269, 
+          421, 
+          230
+        ], 
+        "block_num": 53
+      }, 
+      {
+        "text": " 7 HL A-bar ", 
+        "location": [
+          7002, 
+          3221, 
+          2785, 
+          3793
+        ], 
+        "block_num": 54
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4118, 
+          3387, 
+          254, 
+          25
+        ], 
+        "block_num": 55
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4815, 
+          3402, 
+          74, 
+          146
+        ], 
+        "block_num": 56
+      }, 
+      {
+        "text": "", 
+        "location": [
+          6333, 
+          3403, 
+          122, 
+          122
+        ], 
+        "block_num": 57
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4055, 
+          3427, 
+          326, 
+          277
+        ], 
+        "block_num": 58
+      }, 
+      {
+        "text": " ae", 
+        "location": [
+          5626, 
+          3455, 
+          781, 
+          325
+        ], 
+        "block_num": 59
+      }, 
+      {
+        "text": " sample /", 
+        "location": [
+          953, 
+          3485, 
+          1093, 
+          313
+        ], 
+        "block_num": 60
+      }, 
+      {
+        "text": " Average, -", 
+        "location": [
+          1905, 
+          3496, 
+          1273, 
+          301
+        ], 
+        "block_num": 61
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3076, 
+          3498, 
+          290, 
+          241
+        ], 
+        "block_num": 62
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3251, 
+          3498, 
+          662, 
+          241
+        ], 
+        "block_num": 63
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4400, 
+          3537, 
+          205, 
+          25
+        ], 
+        "block_num": 64
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4620, 
+          3567, 
+          913, 
+          25
+        ], 
+        "block_num": 65
+      }, 
+      {
+        "text": "", 
+        "location": [
+          4400, 
+          3587, 
+          206, 
+          37
+        ], 
+        "block_num": 66
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5224, 
+          3650, 
+          337, 
+          194
+        ], 
+        "block_num": 67
+      }, 
+      {
+        "text": " Sample Standard Deviation, S:   \u00a92012 from \"A First Course in Quality Engmeering: Integrating Statistical and Management Methods of Quality\" by K.S. Knshnamoorth. Reproduced by permission of Taylor and Francis Group, LLC, a division of Informa plc. Holly Ott S LL ft X-bar ", 
+        "location": [
+          0, 
+          3765, 
+          14761, 
+          3925
+        ], 
+        "block_num": 68
+      }
+    ], 
+    "shot_id": 23
+  }, 
+  {
+    "start": 510.04, 
+    "end": 530.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          591, 
+          102, 
+          661, 
+          637
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1282, 
+          132, 
+          386, 
+          145
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " School \u00a2", 
+        "location": [
+          1625, 
+          132, 
+          577, 
+          146
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ot", 
+        "location": [
+          2151, 
+          132, 
+          182, 
+          145
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          2295, 
+          131, 
+          1033, 
+          169
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          8693, 
+          135, 
+          1081, 
+          566
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " Production a", 
+        "location": [
+          1272, 
+          332, 
+          866, 
+          145
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          2056, 
+          332, 
+          302, 
+          146
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " Supply {", 
+        "location": [
+          2335, 
+          331, 
+          553, 
+          169
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " Chain |", 
+        "location": [
+          2829, 
+          332, 
+          470, 
+          158
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          3235, 
+          331, 
+          1046, 
+          169
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " Prot.", 
+        "location": [
+          1294, 
+          502, 
+          338, 
+          146
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Martin |", 
+        "location": [
+          1597, 
+          502, 
+          506, 
+          145
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " Grunow", 
+        "location": [
+          2052, 
+          502, 
+          637, 
+          146
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " Technische L", 
+        "location": [
+          6450, 
+          502, 
+          926, 
+          157
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": " Universitat fh", 
+        "location": [
+          7253, 
+          502, 
+          854, 
+          146
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": " Munchen", 
+        "location": [
+          7998, 
+          502, 
+          734, 
+          146
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": "", 
+        "location": [
+          0, 
+          707, 
+          11437, 
+          26
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          967, 
+          879, 
+          1226, 
+          470
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " lation", 
+        "location": [
+          2014, 
+          882, 
+          1310, 
+          385
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " Parameters", 
+        "location": [
+          3201, 
+          882, 
+          2810, 
+          385
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": "        le Statistics Population   4uand oare population paramete   \u2019 X-barand Sare sample .   22012 from \"A First Course in Quality Engineering: Integrating Statistical ind Management Methods of Quality\" by K.S. Knshnamoorth. Reproduced yy permission of Taylor and Francis Group, LLC, a division of Informa plc. Halhy (Ht", 
+        "location": [
+          663, 
+          1254, 
+          8054, 
+          5617
+        ], 
+        "block_num": 21
+      }, 
+      {
+        "text": " parameters", 
+        "location": [
+          7215, 
+          2134, 
+          1994, 
+          349
+        ], 
+        "block_num": 22
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7332, 
+          2504, 
+          1826, 
+          110
+        ], 
+        "block_num": 23
+      }, 
+      {
+        "text": " . \u201cbar ana Sare sample sfatistics \u2014             \u00a92012 from \"A First Course in Quality Engineering: Integrating Statistical and Management Methods of Quality\" by K.S. Knshnamoorthi. Reproduced by permission of Taylor and Francis Group, LLC, a division of Informa plc. Holly Ott 18", 
+        "location": [
+          0, 
+          3817, 
+          14857, 
+          3865
+        ], 
+        "block_num": 24
+      }
+    ], 
+    "shot_id": 25
+  }, 
+  {
+    "start": 570.04, 
+    "end": 590.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          591, 
+          112, 
+          650, 
+          625
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1282, 
+          132, 
+          398, 
+          145
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " School \u00ab", 
+        "location": [
+          1635, 
+          132, 
+          566, 
+          146
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2151, 
+          132, 
+          182, 
+          145
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          2295, 
+          131, 
+          1034, 
+          170
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          8694, 
+          135, 
+          1070, 
+          566
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " Supply \u00a2", 
+        "location": [
+          2335, 
+          321, 
+          554, 
+          181
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          3235, 
+          321, 
+          1046, 
+          181
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " Production a", 
+        "location": [
+          1263, 
+          332, 
+          877, 
+          146
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          2056, 
+          332, 
+          301, 
+          146
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " Chain |", 
+        "location": [
+          2829, 
+          332, 
+          470, 
+          145
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " Martin |", 
+        "location": [
+          1597, 
+          502, 
+          505, 
+          157
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Grunow", 
+        "location": [
+          2052, 
+          502, 
+          637, 
+          146
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " Technische UU", 
+        "location": [
+          6450, 
+          502, 
+          925, 
+          146
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " Munchen", 
+        "location": [
+          7998, 
+          502, 
+          733, 
+          157
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1285, 
+          513, 
+          349, 
+          134
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7253, 
+          513, 
+          853, 
+          134
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": "", 
+        "location": [
+          0, 
+          707, 
+          11438, 
+          26
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          952, 
+          1121, 
+          1106, 
+          422
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3194, 
+          1122, 
+          350, 
+          397
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1924, 
+          1128, 
+          577, 
+          482
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": " ariabilr", 
+        "location": [
+          3437, 
+          1132, 
+          1466, 
+          386
+        ], 
+        "block_num": 21
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4724, 
+          1128, 
+          590, 
+          481
+        ], 
+        "block_num": 22
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          2500, 
+          1216, 
+          674, 
+          290
+        ], 
+        "block_num": 23
+      }, 
+      {
+        "text": "   \u2018marksman? a\" ff \u2014__ a", 
+        "location": [
+          5528, 
+          1463, 
+          3854, 
+          3734
+        ], 
+        "block_num": 24
+      }, 
+      {
+        "text": "     Who is the be", 
+        "location": [
+          1218, 
+          1473, 
+          3854, 
+          3722
+        ], 
+        "block_num": 25
+      }, 
+      {
+        "text": "     wT ON A Who is the better marksman? E   Holly Ott", 
+        "location": [
+          0, 
+          3775, 
+          14594, 
+          3913
+        ], 
+        "block_num": 26
+      }
+    ], 
+    "shot_id": 28
+  }, 
+  {
+    "start": 630.04, 
+    "end": 650.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          591, 
+          112, 
+          661, 
+          625
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1282, 
+          132, 
+          386, 
+          145
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " School \u00ab", 
+        "location": [
+          1645, 
+          132, 
+          554, 
+          146
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2151, 
+          132, 
+          181, 
+          145
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          2295, 
+          131, 
+          1034, 
+          169
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          8693, 
+          135, 
+          1082, 
+          566
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": " Production a", 
+        "location": [
+          1272, 
+          322, 
+          866, 
+          158
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " Supply \u00a2", 
+        "location": [
+          2335, 
+          321, 
+          554, 
+          181
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " Chain |", 
+        "location": [
+          2829, 
+          323, 
+          469, 
+          156
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          2045, 
+          332, 
+          313, 
+          145
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          3235, 
+          331, 
+          1046, 
+          169
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " Prot.", 
+        "location": [
+          1294, 
+          502, 
+          338, 
+          146
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": " Martin |", 
+        "location": [
+          1597, 
+          502, 
+          505, 
+          146
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": " Universitat fh", 
+        "location": [
+          7253, 
+          502, 
+          854, 
+          146
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": " Munchen", 
+        "location": [
+          7998, 
+          502, 
+          733, 
+          146
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": " Grunow", 
+        "location": [
+          2052, 
+          513, 
+          625, 
+          134
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": "", 
+        "location": [
+          6450, 
+          513, 
+          926, 
+          134
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": "", 
+        "location": [
+          0, 
+          707, 
+          11437, 
+          26
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          952, 
+          1121, 
+          1106, 
+          421
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1924, 
+          1128, 
+          578, 
+          482
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3194, 
+          1133, 
+          350, 
+          374
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": " fariabil:", 
+        "location": [
+          3432, 
+          1132, 
+          1346, 
+          397
+        ], 
+        "block_num": 21
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4724, 
+          1129, 
+          577, 
+          469
+        ], 
+        "block_num": 22
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2491, 
+          1216, 
+          684, 
+          290
+        ], 
+        "block_num": 23
+      }, 
+      {
+        "text": "   . a | an _ i \u2018marksman?", 
+        "location": [
+          5528, 
+          1463, 
+          3854, 
+          3733
+        ], 
+        "block_num": 24
+      }, 
+      {
+        "text": " EE a aoe SE EE a ES EE EE \u2014EEE\u2014EE lil     reduce defects we need to rei aly", 
+        "location": [
+          1218, 
+          1435, 
+          3854, 
+          4633
+        ], 
+        "block_num": 25
+      }, 
+      {
+        "text": "      4) Who is the better marksman? E \u00a2 To reduce defects we need to reduce variability and target the mean \u00a2 It is typically easier to change the mean than It Is to reduce the variation Holly Ott ", 
+        "location": [
+          0, 
+          3775, 
+          14365, 
+          3913
+        ], 
+        "block_num": 26
+      }
+    ], 
+    "shot_id": 31
+  }, 
+  {
+    "start": 670.04, 
+    "end": 690.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          591, 
+          112, 
+          661, 
+          625
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1282, 
+          132, 
+          397, 
+          158
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " School |", 
+        "location": [
+          1646, 
+          132, 
+          542, 
+          145
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " | of Management", 
+        "location": [
+          2106, 
+          131, 
+          1250, 
+          169
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": "", 
+        "location": [
+          8693, 
+          135, 
+          1081, 
+          566
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Production a", 
+        "location": [
+          1272, 
+          322, 
+          866, 
+          158
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2045, 
+          322, 
+          313, 
+          158
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " Supply \u00a2", 
+        "location": [
+          2335, 
+          321, 
+          554, 
+          182
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " Chain |", 
+        "location": [
+          2829, 
+          322, 
+          469, 
+          158
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " Management", 
+        "location": [
+          3235, 
+          321, 
+          1045, 
+          181
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": "", 
+        "location": [
+          1272, 
+          513, 
+          877, 
+          134
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " Grunow", 
+        "location": [
+          2052, 
+          513, 
+          625, 
+          134
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": "", 
+        "location": [
+          6450, 
+          513, 
+          925, 
+          134
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7253, 
+          513, 
+          853, 
+          134
+        ], 
+        "block_num": 13
+      }, 
+      {
+        "text": "", 
+        "location": [
+          7998, 
+          513, 
+          733, 
+          134
+        ], 
+        "block_num": 14
+      }, 
+      {
+        "text": "", 
+        "location": [
+          0, 
+          707, 
+          11437, 
+          26
+        ], 
+        "block_num": 15
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          958, 
+          1121, 
+          974, 
+          421
+        ], 
+        "block_num": 16
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          3193, 
+          1122, 
+          361, 
+          386
+        ], 
+        "block_num": 17
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          4724, 
+          1118, 
+          578, 
+          482
+        ], 
+        "block_num": 18
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          1809, 
+          1129, 
+          709, 
+          470
+        ], 
+        "block_num": 19
+      }, 
+      {
+        "text": " ariabil", 
+        "location": [
+          3443, 
+          1132, 
+          1334, 
+          386
+        ], 
+        "block_num": 20
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2500, 
+          1216, 
+          673, 
+          289
+        ], 
+        "block_num": 21
+      }, 
+      {
+        "text": " Variability 1", 
+        "location": [
+          2202, 
+          2016, 
+          1357, 
+          301
+        ], 
+        "block_num": 22
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3448, 
+          2018, 
+          242, 
+          253
+        ], 
+        "block_num": 23
+      }, 
+      {
+        "text": " population c", 
+        "location": [
+          3895, 
+          2016, 
+          1514, 
+          302
+        ], 
+        "block_num": 24
+      }, 
+      {
+        "text": " Quality \u00ab", 
+        "location": [
+          6799, 
+          2016, 
+          950, 
+          301
+        ], 
+        "block_num": 25
+      }, 
+      {
+        "text": " Excessive V", 
+        "location": [
+          939, 
+          2029, 
+          1430, 
+          230
+        ], 
+        "block_num": 26
+      }, 
+      {
+        "text": " and", 
+        "location": [
+          7676, 
+          2028, 
+          530, 
+          241
+        ], 
+        "block_num": 27
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3731, 
+          2071, 
+          181, 
+          182
+        ], 
+        "block_num": 28
+      }, 
+      {
+        "text": " Callses [|", 
+        "location": [
+          5256, 
+          2070, 
+          1021, 
+          193
+        ], 
+        "block_num": 29
+      }, 
+      {
+        "text": "", 
+        "location": [
+          6180, 
+          2068, 
+          686, 
+          241
+        ], 
+        "block_num": 30
+      }, 
+      {
+        "text": " waste.", 
+        "location": [
+          950, 
+          2419, 
+          926, 
+          229
+        ], 
+        "block_num": 31
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3889, 
+          2568, 
+          218, 
+          242
+        ], 
+        "block_num": 32
+      }, 
+      {
+        "text": " (SKF |", 
+        "location": [
+          4344, 
+          2567, 
+          817, 
+          266
+        ], 
+        "block_num": 33
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3805, 
+          2589, 
+          74, 
+          217
+        ], 
+        "block_num": 34
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3286, 
+          2597, 
+          289, 
+          278
+        ], 
+        "block_num": 35
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3498, 
+          2621, 
+          254, 
+          170
+        ], 
+        "block_num": 36
+      }, 
+      {
+        "text": "", 
+        "location": [
+          5131, 
+          2625, 
+          182, 
+          326
+        ], 
+        "block_num": 37
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2638, 
+          2939, 
+          253, 
+          218
+        ], 
+        "block_num": 38
+      }, 
+      {
+        "text": " icy ts", 
+        "location": [
+          4014, 
+          2949, 
+          1070, 
+          230
+        ], 
+        "block_num": 39
+      }, 
+      {
+        "text": "", 
+        "location": [
+          2924, 
+          2982, 
+          109, 
+          157
+        ], 
+        "block_num": 40
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3831, 
+          2981, 
+          182, 
+          170
+        ], 
+        "block_num": 41
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3030, 
+          2992, 
+          193, 
+          157
+        ], 
+        "block_num": 42
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3220, 
+          3001, 
+          205, 
+          170
+        ], 
+        "block_num": 43
+      }, 
+      {
+        "text": "", 
+        "location": [
+          3504, 
+          3002, 
+          338, 
+          145
+        ], 
+        "block_num": 44
+      }, 
+      {
+        "text": " 22", 
+        "location": [
+          1187, 
+          3281, 
+          265, 
+          181
+        ], 
+        "block_num": 45
+      }, 
+      {
+        "text": " JYSIOM JAN oe ee eam a as ms ssn Lower spec P a a =_\u2014 oo Se ee ee ee ee a a | a a ae = a = a i i \u00e9 i ie ik ik ie in in r ik r nr r F F F F F F F F F \u00e9 F ke \u00e9 \u00e9 k ik ke ik ik is ik ie ik in ie in r in r r F r F F F F F F F F \u00e9 k F ke \u00e9 i ke ke i ik mo ee eee ee ee ee ", 
+        "location": [
+          1283, 
+          3164, 
+          4202, 
+          3230
+        ], 
+        "block_num": 46
+      }, 
+      {
+        "text": " Le", 
+        "location": [
+          5477, 
+          3291, 
+          266, 
+          182
+        ], 
+        "block_num": 47
+      }, 
+      {
+        "text": " rt & 10 15   20", 
+        "location": [
+          5564, 
+          3184, 
+          4178, 
+          3217
+        ], 
+        "block_num": 48
+      }, 
+      {
+        "text": "   \u2014 Os   fe! cm] a o-_ Lower spec a a om JYSIOM JAN i i : i i B GD: i : oo i : Wi i Lai : wi ; ; =: : : : oO: t ' = | b h i B i i a i - i i f i t b i ih i i tp i i i ' : i i i ' ' 1 : i ' : : ' , : : nH t   eo \u2014 1USIAM JAN a a 18 20 15 10 20 LS 10 (b) (a) 20 Holly Ott", 
+        "location": [
+          0, 
+          3786, 
+          14857, 
+          3901
+        ], 
+        "block_num": 49
+      }
+    ], 
+    "shot_id": 33
+  }
+]
